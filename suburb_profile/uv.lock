@@ -1,0 +1,375 @@
+version = 1
+revision = 1
+requires-python = ">=3.12"
+
+[[package]]
+name = "colorama"
+version = "0.4.6"
+source = { registry = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/simple" }
+sdist = { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/colorama/0.4.6/colorama-0.4.6.tar.gz", hash = "sha256:08695f5cb7ed6e0531a20572697297273c47b8cae5a63ffc6d6ed5c201be6e44" }
+wheels = [
+    { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/colorama/0.4.6/colorama-0.4.6-py2.py3-none-any.whl", hash = "sha256:4f1d9991f5acc0ca119f9d443620b77f9d6b33703e51011c16baf57afb285fc6" },
+]
+
+[[package]]
+name = "greenlet"
+version = "3.3.0"
+source = { registry = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/simple" }
+sdist = { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/greenlet/3.3.0/greenlet-3.3.0.tar.gz", hash = "sha256:a82bb225a4e9e4d653dd2fb7b8b2d36e4fb25bc0165422a11e48b88e9e6f78fb" }
+wheels = [
+    { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/greenlet/3.3.0/greenlet-3.3.0-cp312-cp312-macosx_11_0_universal2.whl", hash = "sha256:b01548f6e0b9e9784a2c99c5651e5dc89ffcbe870bc5fb2e5ef864e9cc6b5dcb" },
+    { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/greenlet/3.3.0/greenlet-3.3.0-cp312-cp312-manylinux_2_24_aarch64.manylinux_2_28_aarch64.whl", hash = "sha256:349345b770dc88f81506c6861d22a6ccd422207829d2c854ae2af8025af303e3" },
+    { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/greenlet/3.3.0/greenlet-3.3.0-cp312-cp312-manylinux_2_24_ppc64le.manylinux_2_28_ppc64le.whl", hash = "sha256:e8e18ed6995e9e2c0b4ed264d2cf89260ab3ac7e13555b8032b25a74c6d18655" },
+    { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/greenlet/3.3.0/greenlet-3.3.0-cp312-cp312-manylinux_2_24_s390x.manylinux_2_28_s390x.whl", hash = "sha256:c024b1e5696626890038e34f76140ed1daf858e37496d33f2af57f06189e70d7" },
+    { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/greenlet/3.3.0/greenlet-3.3.0-cp312-cp312-manylinux_2_24_x86_64.manylinux_2_28_x86_64.whl", hash = "sha256:047ab3df20ede6a57c35c14bf5200fcf04039d50f908270d3f9a7a82064f543b" },
+    { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/greenlet/3.3.0/greenlet-3.3.0-cp312-cp312-musllinux_1_2_aarch64.whl", hash = "sha256:2d9ad37fc657b1102ec880e637cccf20191581f75c64087a549e66c57e1ceb53" },
+    { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/greenlet/3.3.0/greenlet-3.3.0-cp312-cp312-musllinux_1_2_x86_64.whl", hash = "sha256:83cd0e36932e0e7f36a64b732a6f60c2fc2df28c351bae79fbaf4f8092fe7614" },
+    { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/greenlet/3.3.0/greenlet-3.3.0-cp312-cp312-win_amd64.whl", hash = "sha256:a7a34b13d43a6b78abf828a6d0e87d3385680eaf830cd60d20d52f249faabf39" },
+    { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/greenlet/3.3.0/greenlet-3.3.0-cp313-cp313-macosx_11_0_universal2.whl", hash = "sha256:a1e41a81c7e2825822f4e068c48cb2196002362619e2d70b148f20a831c00739" },
+    { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/greenlet/3.3.0/greenlet-3.3.0-cp313-cp313-manylinux_2_24_aarch64.manylinux_2_28_aarch64.whl", hash = "sha256:9f515a47d02da4d30caaa85b69474cec77b7929b2e936ff7fb853d42f4bf8808" },
+    { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/greenlet/3.3.0/greenlet-3.3.0-cp313-cp313-manylinux_2_24_ppc64le.manylinux_2_28_ppc64le.whl", hash = "sha256:7d2d9fd66bfadf230b385fdc90426fcd6eb64db54b40c495b72ac0feb5766c54" },
+    { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/greenlet/3.3.0/greenlet-3.3.0-cp313-cp313-manylinux_2_24_s390x.manylinux_2_28_s390x.whl", hash = "sha256:30a6e28487a790417d036088b3bcb3f3ac7d8babaa7d0139edbaddebf3af9492" },
+    { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/greenlet/3.3.0/greenlet-3.3.0-cp313-cp313-manylinux_2_24_x86_64.manylinux_2_28_x86_64.whl", hash = "sha256:087ea5e004437321508a8d6f20efc4cfec5e3c30118e1417ea96ed1d93950527" },
+    { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/greenlet/3.3.0/greenlet-3.3.0-cp313-cp313-musllinux_1_2_aarch64.whl", hash = "sha256:ab97cf74045343f6c60a39913fa59710e4bd26a536ce7ab2397adf8b27e67c39" },
+    { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/greenlet/3.3.0/greenlet-3.3.0-cp313-cp313-musllinux_1_2_x86_64.whl", hash = "sha256:5375d2e23184629112ca1ea89a53389dddbffcf417dad40125713d88eb5f96e8" },
+    { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/greenlet/3.3.0/greenlet-3.3.0-cp313-cp313-win_amd64.whl", hash = "sha256:9ee1942ea19550094033c35d25d20726e4f1c40d59545815e1128ac58d416d38" },
+    { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/greenlet/3.3.0/greenlet-3.3.0-cp314-cp314-macosx_11_0_universal2.whl", hash = "sha256:60c2ef0f578afb3c8d92ea07ad327f9a062547137afe91f38408f08aacab667f" },
+    { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/greenlet/3.3.0/greenlet-3.3.0-cp314-cp314-manylinux_2_24_aarch64.manylinux_2_28_aarch64.whl", hash = "sha256:0a5d554d0712ba1de0a6c94c640f7aeba3f85b3a6e1f2899c11c2c0428da9365" },
+    { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/greenlet/3.3.0/greenlet-3.3.0-cp314-cp314-manylinux_2_24_ppc64le.manylinux_2_28_ppc64le.whl", hash = "sha256:3a898b1e9c5f7307ebbde4102908e6cbfcb9ea16284a3abe15cab996bee8b9b3" },
+    { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/greenlet/3.3.0/greenlet-3.3.0-cp314-cp314-manylinux_2_24_s390x.manylinux_2_28_s390x.whl", hash = "sha256:dcd2bdbd444ff340e8d6bdf54d2f206ccddbb3ccfdcd3c25bf4afaa7b8f0cf45" },
+    { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/greenlet/3.3.0/greenlet-3.3.0-cp314-cp314-manylinux_2_24_x86_64.manylinux_2_28_x86_64.whl", hash = "sha256:5773edda4dc00e173820722711d043799d3adb4f01731f40619e07ea2750b955" },
+    { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/greenlet/3.3.0/greenlet-3.3.0-cp314-cp314-musllinux_1_2_aarch64.whl", hash = "sha256:ac0549373982b36d5fd5d30beb8a7a33ee541ff98d2b502714a09f1169f31b55" },
+    { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/greenlet/3.3.0/greenlet-3.3.0-cp314-cp314-musllinux_1_2_x86_64.whl", hash = "sha256:d198d2d977460358c3b3a4dc844f875d1adb33817f0613f663a656f463764ccc" },
+    { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/greenlet/3.3.0/greenlet-3.3.0-cp314-cp314-win_amd64.whl", hash = "sha256:73f51dd0e0bdb596fb0417e475fa3c5e32d4c83638296e560086b8d7da7c4170" },
+    { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/greenlet/3.3.0/greenlet-3.3.0-cp314-cp314t-macosx_11_0_universal2.whl", hash = "sha256:d6ed6f85fae6cdfdb9ce04c9bf7a08d666cfcfb914e7d006f44f840b46741931" },
+    { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/greenlet/3.3.0/greenlet-3.3.0-cp314-cp314t-manylinux_2_24_aarch64.manylinux_2_28_aarch64.whl", hash = "sha256:d9125050fcf24554e69c4cacb086b87b3b55dc395a8b3ebe6487b045b2614388" },
+    { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/greenlet/3.3.0/greenlet-3.3.0-cp314-cp314t-manylinux_2_24_ppc64le.manylinux_2_28_ppc64le.whl", hash = "sha256:87e63ccfa13c0a0f6234ed0add552af24cc67dd886731f2261e46e241608bee3" },
+    { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/greenlet/3.3.0/greenlet-3.3.0-cp314-cp314t-manylinux_2_24_s390x.manylinux_2_28_s390x.whl", hash = "sha256:2662433acbca297c9153a4023fe2161c8dcfdcc91f10433171cf7e7d94ba2221" },
+    { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/greenlet/3.3.0/greenlet-3.3.0-cp314-cp314t-manylinux_2_24_x86_64.manylinux_2_28_x86_64.whl", hash = "sha256:3c6e9b9c1527a78520357de498b0e709fb9e2f49c3a513afd5a249007261911b" },
+    { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/greenlet/3.3.0/greenlet-3.3.0-cp314-cp314t-musllinux_1_2_aarch64.whl", hash = "sha256:286d093f95ec98fdd92fcb955003b8a3d054b4e2cab3e2707a5039e7b50520fd" },
+    { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/greenlet/3.3.0/greenlet-3.3.0-cp314-cp314t-musllinux_1_2_x86_64.whl", hash = "sha256:6c10513330af5b8ae16f023e8ddbfb486ab355d04467c4679c5cfe4659975dd9" },
+]
+
+[[package]]
+name = "iniconfig"
+version = "2.3.0"
+source = { registry = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/simple" }
+sdist = { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/iniconfig/2.3.0/iniconfig-2.3.0.tar.gz", hash = "sha256:c76315c77db068650d49c5b56314774a7804df16fee4402c1f19d6d15d8c4730" }
+wheels = [
+    { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/iniconfig/2.3.0/iniconfig-2.3.0-py3-none-any.whl", hash = "sha256:f631c04d2c48c52b84d0d0549c99ff3859c98df65b3101406327ecc7d53fbf12" },
+]
+
+[[package]]
+name = "numpy"
+version = "2.3.5"
+source = { registry = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/simple" }
+sdist = { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/numpy/2.3.5/numpy-2.3.5.tar.gz", hash = "sha256:784db1dcdab56bf0517743e746dfb0f885fc68d948aba86eeec2cba234bdf1c0" }
+wheels = [
+    { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/numpy/2.3.5/numpy-2.3.5-cp312-cp312-macosx_10_13_x86_64.whl", hash = "sha256:74ae7b798248fe62021dbf3c914245ad45d1a6b0cb4a29ecb4b31d0bfbc4cc3e" },
+    { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/numpy/2.3.5/numpy-2.3.5-cp312-cp312-macosx_11_0_arm64.whl", hash = "sha256:ee3888d9ff7c14604052b2ca5535a30216aa0a58e948cdd3eeb8d3415f638769" },
+    { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/numpy/2.3.5/numpy-2.3.5-cp312-cp312-macosx_14_0_arm64.whl", hash = "sha256:612a95a17655e213502f60cfb9bf9408efdc9eb1d5f50535cc6eb365d11b42b5" },
+    { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/numpy/2.3.5/numpy-2.3.5-cp312-cp312-macosx_14_0_x86_64.whl", hash = "sha256:3101e5177d114a593d79dd79658650fe28b5a0d8abeb8ce6f437c0e6df5be1a4" },
+    { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/numpy/2.3.5/numpy-2.3.5-cp312-cp312-manylinux_2_27_aarch64.manylinux_2_28_aarch64.whl", hash = "sha256:8b973c57ff8e184109db042c842423ff4f60446239bd585a5131cc47f06f789d" },
+    { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/numpy/2.3.5/numpy-2.3.5-cp312-cp312-manylinux_2_27_x86_64.manylinux_2_28_x86_64.whl", hash = "sha256:0d8163f43acde9a73c2a33605353a4f1bc4798745a8b1d73183b28e5b435ae28" },
+    { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/numpy/2.3.5/numpy-2.3.5-cp312-cp312-musllinux_1_2_aarch64.whl", hash = "sha256:51c1e14eb1e154ebd80e860722f9e6ed6ec89714ad2db2d3aa33c31d7c12179b" },
+    { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/numpy/2.3.5/numpy-2.3.5-cp312-cp312-musllinux_1_2_x86_64.whl", hash = "sha256:b46b4ec24f7293f23adcd2d146960559aaf8020213de8ad1909dba6c013bf89c" },
+    { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/numpy/2.3.5/numpy-2.3.5-cp312-cp312-win32.whl", hash = "sha256:3997b5b3c9a771e157f9aae01dd579ee35ad7109be18db0e85dbdbe1de06e952" },
+    { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/numpy/2.3.5/numpy-2.3.5-cp312-cp312-win_amd64.whl", hash = "sha256:86945f2ee6d10cdfd67bcb4069c1662dd711f7e2a4343db5cecec06b87cf31aa" },
+    { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/numpy/2.3.5/numpy-2.3.5-cp312-cp312-win_arm64.whl", hash = "sha256:f28620fe26bee16243be2b7b874da327312240a7cdc38b769a697578d2100013" },
+    { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/numpy/2.3.5/numpy-2.3.5-cp313-cp313-macosx_10_13_x86_64.whl", hash = "sha256:d0f23b44f57077c1ede8c5f26b30f706498b4862d3ff0a7298b8411dd2f043ff" },
+    { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/numpy/2.3.5/numpy-2.3.5-cp313-cp313-macosx_11_0_arm64.whl", hash = "sha256:aa5bc7c5d59d831d9773d1170acac7893ce3a5e130540605770ade83280e7188" },
+    { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/numpy/2.3.5/numpy-2.3.5-cp313-cp313-macosx_14_0_arm64.whl", hash = "sha256:ccc933afd4d20aad3c00bcef049cb40049f7f196e0397f1109dba6fed63267b0" },
+    { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/numpy/2.3.5/numpy-2.3.5-cp313-cp313-macosx_14_0_x86_64.whl", hash = "sha256:afaffc4393205524af9dfa400fa250143a6c3bc646c08c9f5e25a9f4b4d6a903" },
+    { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/numpy/2.3.5/numpy-2.3.5-cp313-cp313-manylinux_2_27_aarch64.manylinux_2_28_aarch64.whl", hash = "sha256:9c75442b2209b8470d6d5d8b1c25714270686f14c749028d2199c54e29f20b4d" },
+    { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/numpy/2.3.5/numpy-2.3.5-cp313-cp313-manylinux_2_27_x86_64.manylinux_2_28_x86_64.whl", hash = "sha256:11e06aa0af8c0f05104d56450d6093ee639e15f24ecf62d417329d06e522e017" },
+    { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/numpy/2.3.5/numpy-2.3.5-cp313-cp313-musllinux_1_2_aarch64.whl", hash = "sha256:ed89927b86296067b4f81f108a2271d8926467a8868e554eaf370fc27fa3ccaf" },
+    { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/numpy/2.3.5/numpy-2.3.5-cp313-cp313-musllinux_1_2_x86_64.whl", hash = "sha256:51c55fe3451421f3a6ef9a9c1439e82101c57a2c9eab9feb196a62b1a10b58ce" },
+    { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/numpy/2.3.5/numpy-2.3.5-cp313-cp313-win32.whl", hash = "sha256:1978155dd49972084bd6ef388d66ab70f0c323ddee6f693d539376498720fb7e" },
+    { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/numpy/2.3.5/numpy-2.3.5-cp313-cp313-win_amd64.whl", hash = "sha256:00dc4e846108a382c5869e77c6ed514394bdeb3403461d25a829711041217d5b" },
+    { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/numpy/2.3.5/numpy-2.3.5-cp313-cp313-win_arm64.whl", hash = "sha256:0472f11f6ec23a74a906a00b48a4dcf3849209696dff7c189714511268d103ae" },
+    { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/numpy/2.3.5/numpy-2.3.5-cp313-cp313t-macosx_10_13_x86_64.whl", hash = "sha256:414802f3b97f3c1eef41e530aaba3b3c1620649871d8cb38c6eaff034c2e16bd" },
+    { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/numpy/2.3.5/numpy-2.3.5-cp313-cp313t-macosx_11_0_arm64.whl", hash = "sha256:5ee6609ac3604fa7780e30a03e5e241a7956f8e2fcfe547d51e3afa5247ac47f" },
+    { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/numpy/2.3.5/numpy-2.3.5-cp313-cp313t-macosx_14_0_arm64.whl", hash = "sha256:86d835afea1eaa143012a2d7a3f45a3adce2d7adc8b4961f0b362214d800846a" },
+    { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/numpy/2.3.5/numpy-2.3.5-cp313-cp313t-macosx_14_0_x86_64.whl", hash = "sha256:30bc11310e8153ca664b14c5f1b73e94bd0503681fcf136a163de856f3a50139" },
+    { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/numpy/2.3.5/numpy-2.3.5-cp313-cp313t-manylinux_2_27_aarch64.manylinux_2_28_aarch64.whl", hash = "sha256:1062fde1dcf469571705945b0f221b73928f34a20c904ffb45db101907c3454e" },
+    { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/numpy/2.3.5/numpy-2.3.5-cp313-cp313t-manylinux_2_27_x86_64.manylinux_2_28_x86_64.whl", hash = "sha256:ce581db493ea1a96c0556360ede6607496e8bf9b3a8efa66e06477267bc831e9" },
+    { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/numpy/2.3.5/numpy-2.3.5-cp313-cp313t-musllinux_1_2_aarch64.whl", hash = "sha256:cc8920d2ec5fa99875b670bb86ddeb21e295cb07aa331810d9e486e0b969d946" },
+    { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/numpy/2.3.5/numpy-2.3.5-cp313-cp313t-musllinux_1_2_x86_64.whl", hash = "sha256:9ee2197ef8c4f0dfe405d835f3b6a14f5fee7782b5de51ba06fb65fc9b36e9f1" },
+    { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/numpy/2.3.5/numpy-2.3.5-cp313-cp313t-win32.whl", hash = "sha256:70b37199913c1bd300ff6e2693316c6f869c7ee16378faf10e4f5e3275b299c3" },
+    { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/numpy/2.3.5/numpy-2.3.5-cp313-cp313t-win_amd64.whl", hash = "sha256:b501b5fa195cc9e24fe102f21ec0a44dffc231d2af79950b451e0d99cea02234" },
+    { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/numpy/2.3.5/numpy-2.3.5-cp313-cp313t-win_arm64.whl", hash = "sha256:a80afd79f45f3c4a7d341f13acbe058d1ca8ac017c165d3fa0d3de6bc1a079d7" },
+    { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/numpy/2.3.5/numpy-2.3.5-cp314-cp314-macosx_10_15_x86_64.whl", hash = "sha256:bf06bc2af43fa8d32d30fae16ad965663e966b1a3202ed407b84c989c3221e82" },
+    { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/numpy/2.3.5/numpy-2.3.5-cp314-cp314-macosx_11_0_arm64.whl", hash = "sha256:052e8c42e0c49d2575621c158934920524f6c5da05a1d3b9bab5d8e259e045f0" },
+    { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/numpy/2.3.5/numpy-2.3.5-cp314-cp314-macosx_14_0_arm64.whl", hash = "sha256:1ed1ec893cff7040a02c8aa1c8611b94d395590d553f6b53629a4461dc7f7b63" },
+    { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/numpy/2.3.5/numpy-2.3.5-cp314-cp314-macosx_14_0_x86_64.whl", hash = "sha256:2dcd0808a421a482a080f89859a18beb0b3d1e905b81e617a188bd80422d62e9" },
+    { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/numpy/2.3.5/numpy-2.3.5-cp314-cp314-manylinux_2_27_aarch64.manylinux_2_28_aarch64.whl", hash = "sha256:727fd05b57df37dc0bcf1a27767a3d9a78cbbc92822445f32cc3436ba797337b" },
+    { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/numpy/2.3.5/numpy-2.3.5-cp314-cp314-manylinux_2_27_x86_64.manylinux_2_28_x86_64.whl", hash = "sha256:fffe29a1ef00883599d1dc2c51aa2e5d80afe49523c261a74933df395c15c520" },
+    { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/numpy/2.3.5/numpy-2.3.5-cp314-cp314-musllinux_1_2_aarch64.whl", hash = "sha256:8f7f0e05112916223d3f438f293abf0727e1181b5983f413dfa2fefc4098245c" },
+    { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/numpy/2.3.5/numpy-2.3.5-cp314-cp314-musllinux_1_2_x86_64.whl", hash = "sha256:2e2eb32ddb9ccb817d620ac1d8dae7c3f641c1e5f55f531a33e8ab97960a75b8" },
+    { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/numpy/2.3.5/numpy-2.3.5-cp314-cp314-win32.whl", hash = "sha256:66f85ce62c70b843bab1fb14a05d5737741e74e28c7b8b5a064de10142fad248" },
+    { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/numpy/2.3.5/numpy-2.3.5-cp314-cp314-win_amd64.whl", hash = "sha256:e6a0bc88393d65807d751a614207b7129a310ca4fe76a74e5c7da5fa5671417e" },
+    { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/numpy/2.3.5/numpy-2.3.5-cp314-cp314-win_arm64.whl", hash = "sha256:aeffcab3d4b43712bb7a60b65f6044d444e75e563ff6180af8f98dd4b905dfd2" },
+    { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/numpy/2.3.5/numpy-2.3.5-cp314-cp314t-macosx_10_15_x86_64.whl", hash = "sha256:17531366a2e3a9e30762c000f2c43a9aaa05728712e25c11ce1dbe700c53ad41" },
+    { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/numpy/2.3.5/numpy-2.3.5-cp314-cp314t-macosx_11_0_arm64.whl", hash = "sha256:d21644de1b609825ede2f48be98dfde4656aefc713654eeee280e37cadc4e0ad" },
+    { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/numpy/2.3.5/numpy-2.3.5-cp314-cp314t-macosx_14_0_arm64.whl", hash = "sha256:c804e3a5aba5460c73955c955bdbd5c08c354954e9270a2c1565f62e866bdc39" },
+    { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/numpy/2.3.5/numpy-2.3.5-cp314-cp314t-macosx_14_0_x86_64.whl", hash = "sha256:cc0a57f895b96ec78969c34f682c602bf8da1a0270b09bc65673df2e7638ec20" },
+    { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/numpy/2.3.5/numpy-2.3.5-cp314-cp314t-manylinux_2_27_aarch64.manylinux_2_28_aarch64.whl", hash = "sha256:900218e456384ea676e24ea6a0417f030a3b07306d29d7ad843957b40a9d8d52" },
+    { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/numpy/2.3.5/numpy-2.3.5-cp314-cp314t-manylinux_2_27_x86_64.manylinux_2_28_x86_64.whl", hash = "sha256:09a1bea522b25109bf8e6f3027bd810f7c1085c64a0c7ce050c1676ad0ba010b" },
+    { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/numpy/2.3.5/numpy-2.3.5-cp314-cp314t-musllinux_1_2_aarch64.whl", hash = "sha256:04822c00b5fd0323c8166d66c701dc31b7fbd252c100acd708c48f763968d6a3" },
+    { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/numpy/2.3.5/numpy-2.3.5-cp314-cp314t-musllinux_1_2_x86_64.whl", hash = "sha256:d6889ec4ec662a1a37eb4b4fb26b6100841804dac55bd9df579e326cdc146227" },
+    { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/numpy/2.3.5/numpy-2.3.5-cp314-cp314t-win32.whl", hash = "sha256:93eebbcf1aafdf7e2ddd44c2923e2672e1010bddc014138b229e49725b4d6be5" },
+    { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/numpy/2.3.5/numpy-2.3.5-cp314-cp314t-win_amd64.whl", hash = "sha256:c8a9958e88b65c3b27e22ca2a076311636850b612d6bbfb76e8d156aacde2aaf" },
+    { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/numpy/2.3.5/numpy-2.3.5-cp314-cp314t-win_arm64.whl", hash = "sha256:6203fdf9f3dc5bdaed7319ad8698e685c7a3be10819f41d32a0723e611733b42" },
+]
+
+[[package]]
+name = "packaging"
+version = "25.0"
+source = { registry = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/simple" }
+sdist = { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/packaging/25.0/packaging-25.0.tar.gz", hash = "sha256:d443872c98d677bf60f6a1f2f8c1cb748e8fe762d2bf9d3148b5599295b0fc4f" }
+wheels = [
+    { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/packaging/25.0/packaging-25.0-py3-none-any.whl", hash = "sha256:29572ef2b1f17581046b3a2227d5c611fb25ec70ca1ba8554b24b0e69331a484" },
+]
+
+[[package]]
+name = "pandas"
+version = "2.3.3"
+source = { registry = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/simple" }
+dependencies = [
+    { name = "numpy" },
+    { name = "python-dateutil" },
+    { name = "pytz" },
+    { name = "tzdata" },
+]
+sdist = { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/pandas/2.3.3/pandas-2.3.3.tar.gz", hash = "sha256:e05e1af93b977f7eafa636d043f9f94c7ee3ac81af99c13508215942e64c993b" }
+wheels = [
+    { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/pandas/2.3.3/pandas-2.3.3-cp312-cp312-macosx_10_13_x86_64.whl", hash = "sha256:6d21f6d74eb1725c2efaa71a2bfc661a0689579b58e9c0ca58a739ff0b002b53" },
+    { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/pandas/2.3.3/pandas-2.3.3-cp312-cp312-macosx_11_0_arm64.whl", hash = "sha256:3fd2f887589c7aa868e02632612ba39acb0b8948faf5cc58f0850e165bd46f35" },
+    { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/pandas/2.3.3/pandas-2.3.3-cp312-cp312-manylinux_2_24_aarch64.manylinux_2_28_aarch64.whl", hash = "sha256:ecaf1e12bdc03c86ad4a7ea848d66c685cb6851d807a26aa245ca3d2017a1908" },
+    { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/pandas/2.3.3/pandas-2.3.3-cp312-cp312-manylinux_2_24_x86_64.manylinux_2_28_x86_64.whl", hash = "sha256:b3d11d2fda7eb164ef27ffc14b4fcab16a80e1ce67e9f57e19ec0afaf715ba89" },
+    { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/pandas/2.3.3/pandas-2.3.3-cp312-cp312-musllinux_1_2_aarch64.whl", hash = "sha256:a68e15f780eddf2b07d242e17a04aa187a7ee12b40b930bfdd78070556550e98" },
+    { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/pandas/2.3.3/pandas-2.3.3-cp312-cp312-musllinux_1_2_x86_64.whl", hash = "sha256:371a4ab48e950033bcf52b6527eccb564f52dc826c02afd9a1bc0ab731bba084" },
+    { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/pandas/2.3.3/pandas-2.3.3-cp312-cp312-win_amd64.whl", hash = "sha256:a16dcec078a01eeef8ee61bf64074b4e524a2a3f4b3be9326420cabe59c4778b" },
+    { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/pandas/2.3.3/pandas-2.3.3-cp313-cp313-macosx_10_13_x86_64.whl", hash = "sha256:56851a737e3470de7fa88e6131f41281ed440d29a9268dcbf0002da5ac366713" },
+    { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/pandas/2.3.3/pandas-2.3.3-cp313-cp313-macosx_11_0_arm64.whl", hash = "sha256:bdcd9d1167f4885211e401b3036c0c8d9e274eee67ea8d0758a256d60704cfe8" },
+    { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/pandas/2.3.3/pandas-2.3.3-cp313-cp313-manylinux_2_24_aarch64.manylinux_2_28_aarch64.whl", hash = "sha256:e32e7cc9af0f1cc15548288a51a3b681cc2a219faa838e995f7dc53dbab1062d" },
+    { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/pandas/2.3.3/pandas-2.3.3-cp313-cp313-manylinux_2_24_x86_64.manylinux_2_28_x86_64.whl", hash = "sha256:318d77e0e42a628c04dc56bcef4b40de67918f7041c2b061af1da41dcff670ac" },
+    { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/pandas/2.3.3/pandas-2.3.3-cp313-cp313-musllinux_1_2_aarch64.whl", hash = "sha256:4e0a175408804d566144e170d0476b15d78458795bb18f1304fb94160cabf40c" },
+    { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/pandas/2.3.3/pandas-2.3.3-cp313-cp313-musllinux_1_2_x86_64.whl", hash = "sha256:93c2d9ab0fc11822b5eece72ec9587e172f63cff87c00b062f6e37448ced4493" },
+    { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/pandas/2.3.3/pandas-2.3.3-cp313-cp313-win_amd64.whl", hash = "sha256:f8bfc0e12dc78f777f323f55c58649591b2cd0c43534e8355c51d3fede5f4dee" },
+    { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/pandas/2.3.3/pandas-2.3.3-cp313-cp313t-macosx_10_13_x86_64.whl", hash = "sha256:75ea25f9529fdec2d2e93a42c523962261e567d250b0013b16210e1d40d7c2e5" },
+    { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/pandas/2.3.3/pandas-2.3.3-cp313-cp313t-macosx_11_0_arm64.whl", hash = "sha256:74ecdf1d301e812db96a465a525952f4dde225fdb6d8e5a521d47e1f42041e21" },
+    { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/pandas/2.3.3/pandas-2.3.3-cp313-cp313t-manylinux_2_24_aarch64.manylinux_2_28_aarch64.whl", hash = "sha256:6435cb949cb34ec11cc9860246ccb2fdc9ecd742c12d3304989017d53f039a78" },
+    { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/pandas/2.3.3/pandas-2.3.3-cp313-cp313t-manylinux_2_24_x86_64.manylinux_2_28_x86_64.whl", hash = "sha256:900f47d8f20860de523a1ac881c4c36d65efcb2eb850e6948140fa781736e110" },
+    { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/pandas/2.3.3/pandas-2.3.3-cp313-cp313t-musllinux_1_2_aarch64.whl", hash = "sha256:a45c765238e2ed7d7c608fc5bc4a6f88b642f2f01e70c0c23d2224dd21829d86" },
+    { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/pandas/2.3.3/pandas-2.3.3-cp313-cp313t-musllinux_1_2_x86_64.whl", hash = "sha256:c4fc4c21971a1a9f4bdb4c73978c7f7256caa3e62b323f70d6cb80db583350bc" },
+    { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/pandas/2.3.3/pandas-2.3.3-cp314-cp314-macosx_10_13_x86_64.whl", hash = "sha256:ee15f284898e7b246df8087fc82b87b01686f98ee67d85a17b7ab44143a3a9a0" },
+    { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/pandas/2.3.3/pandas-2.3.3-cp314-cp314-macosx_11_0_arm64.whl", hash = "sha256:1611aedd912e1ff81ff41c745822980c49ce4a7907537be8692c8dbc31924593" },
+    { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/pandas/2.3.3/pandas-2.3.3-cp314-cp314-manylinux_2_24_aarch64.manylinux_2_28_aarch64.whl", hash = "sha256:6d2cefc361461662ac48810cb14365a365ce864afe85ef1f447ff5a1e99ea81c" },
+    { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/pandas/2.3.3/pandas-2.3.3-cp314-cp314-manylinux_2_24_x86_64.manylinux_2_28_x86_64.whl", hash = "sha256:ee67acbbf05014ea6c763beb097e03cd629961c8a632075eeb34247120abcb4b" },
+    { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/pandas/2.3.3/pandas-2.3.3-cp314-cp314-musllinux_1_2_aarch64.whl", hash = "sha256:c46467899aaa4da076d5abc11084634e2d197e9460643dd455ac3db5856b24d6" },
+    { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/pandas/2.3.3/pandas-2.3.3-cp314-cp314-musllinux_1_2_x86_64.whl", hash = "sha256:6253c72c6a1d990a410bc7de641d34053364ef8bcd3126f7e7450125887dffe3" },
+    { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/pandas/2.3.3/pandas-2.3.3-cp314-cp314-win_amd64.whl", hash = "sha256:1b07204a219b3b7350abaae088f451860223a52cfb8a6c53358e7948735158e5" },
+    { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/pandas/2.3.3/pandas-2.3.3-cp314-cp314t-macosx_10_13_x86_64.whl", hash = "sha256:2462b1a365b6109d275250baaae7b760fd25c726aaca0054649286bcfbb3e8ec" },
+    { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/pandas/2.3.3/pandas-2.3.3-cp314-cp314t-macosx_11_0_arm64.whl", hash = "sha256:0242fe9a49aa8b4d78a4fa03acb397a58833ef6199e9aa40a95f027bb3a1b6e7" },
+    { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/pandas/2.3.3/pandas-2.3.3-cp314-cp314t-manylinux_2_24_aarch64.manylinux_2_28_aarch64.whl", hash = "sha256:a21d830e78df0a515db2b3d2f5570610f5e6bd2e27749770e8bb7b524b89b450" },
+    { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/pandas/2.3.3/pandas-2.3.3-cp314-cp314t-manylinux_2_24_x86_64.manylinux_2_28_x86_64.whl", hash = "sha256:2e3ebdb170b5ef78f19bfb71b0dc5dc58775032361fa188e814959b74d726dd5" },
+    { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/pandas/2.3.3/pandas-2.3.3-cp314-cp314t-musllinux_1_2_aarch64.whl", hash = "sha256:d051c0e065b94b7a3cea50eb1ec32e912cd96dba41647eb24104b6c6c14c5788" },
+    { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/pandas/2.3.3/pandas-2.3.3-cp314-cp314t-musllinux_1_2_x86_64.whl", hash = "sha256:3869faf4bd07b3b66a9f462417d0ca3a9df29a9f6abd5d0d0dbab15dac7abe87" },
+]
+
+[[package]]
+name = "playwright"
+version = "1.57.0"
+source = { registry = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/simple" }
+dependencies = [
+    { name = "greenlet" },
+    { name = "pyee" },
+]
+wheels = [
+    { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/playwright/1.57.0/playwright-1.57.0-py3-none-macosx_10_13_x86_64.whl", hash = "sha256:9351c1ac3dfd9b3820fe7fc4340d96c0d3736bb68097b9b7a69bd45d25e9370c" },
+    { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/playwright/1.57.0/playwright-1.57.0-py3-none-macosx_11_0_arm64.whl", hash = "sha256:a4a9d65027bce48eeba842408bcc1421502dfd7e41e28d207e94260fa93ca67e" },
+    { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/playwright/1.57.0/playwright-1.57.0-py3-none-macosx_11_0_universal2.whl", hash = "sha256:99104771abc4eafee48f47dac2369e0015516dc1ce8c409807d2dd440828b9a4" },
+    { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/playwright/1.57.0/playwright-1.57.0-py3-none-manylinux1_x86_64.whl", hash = "sha256:284ed5a706b7c389a06caa431b2f0ba9ac4130113c3a779767dda758c2497bb1" },
+    { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/playwright/1.57.0/playwright-1.57.0-py3-none-manylinux_2_17_aarch64.manylinux2014_aarch64.whl", hash = "sha256:38a1bae6c0a07839cdeaddbc0756b3b2b85e476c07945f64ece08f1f956a86f1" },
+    { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/playwright/1.57.0/playwright-1.57.0-py3-none-win32.whl", hash = "sha256:1dd93b265688da46e91ecb0606d36f777f8eadcf7fbef12f6426b20bf0c9137c" },
+    { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/playwright/1.57.0/playwright-1.57.0-py3-none-win_amd64.whl", hash = "sha256:6caefb08ed2c6f29d33b8088d05d09376946e49a73be19271c8cd5384b82b14c" },
+    { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/playwright/1.57.0/playwright-1.57.0-py3-none-win_arm64.whl", hash = "sha256:5f065f5a133dbc15e6e7c71e7bc04f258195755b1c32a432b792e28338c8335e" },
+]
+
+[[package]]
+name = "pluggy"
+version = "1.6.0"
+source = { registry = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/simple" }
+sdist = { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/pluggy/1.6.0/pluggy-1.6.0.tar.gz", hash = "sha256:7dcc130b76258d33b90f61b658791dede3486c3e6bfb003ee5c9bfb396dd22f3" }
+wheels = [
+    { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/pluggy/1.6.0/pluggy-1.6.0-py3-none-any.whl", hash = "sha256:e920276dd6813095e9377c0bc5566d94c932c33b27a3e3945d8389c374dd4746" },
+]
+
+[[package]]
+name = "pyee"
+version = "13.0.0"
+source = { registry = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/simple" }
+dependencies = [
+    { name = "typing-extensions" },
+]
+sdist = { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/pyee/13.0.0/pyee-13.0.0.tar.gz", hash = "sha256:b391e3c5a434d1f5118a25615001dbc8f669cf410ab67d04c4d4e07c55481c37" }
+wheels = [
+    { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/pyee/13.0.0/pyee-13.0.0-py3-none-any.whl", hash = "sha256:48195a3cddb3b1515ce0695ed76036b5ccc2ef3a9f963ff9f77aec0139845498" },
+]
+
+[[package]]
+name = "pygments"
+version = "2.19.2"
+source = { registry = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/simple" }
+sdist = { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/pygments/2.19.2/pygments-2.19.2.tar.gz", hash = "sha256:636cb2477cec7f8952536970bc533bc43743542f70392ae026374600add5b887" }
+wheels = [
+    { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/pygments/2.19.2/pygments-2.19.2-py3-none-any.whl", hash = "sha256:86540386c03d588bb81d44bc3928634ff26449851e99741617ecb9037ee5ec0b" },
+]
+
+[[package]]
+name = "pytest"
+version = "9.0.2"
+source = { registry = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/simple" }
+dependencies = [
+    { name = "colorama", marker = "sys_platform == 'win32'" },
+    { name = "iniconfig" },
+    { name = "packaging" },
+    { name = "pluggy" },
+    { name = "pygments" },
+]
+sdist = { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/pytest/9.0.2/pytest-9.0.2.tar.gz", hash = "sha256:75186651a92bd89611d1d9fc20f0b4345fd827c41ccd5c299a868a05d70edf11" }
+wheels = [
+    { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/pytest/9.0.2/pytest-9.0.2-py3-none-any.whl", hash = "sha256:711ffd45bf766d5264d487b917733b453d917afd2b0ad65223959f59089f875b" },
+]
+
+[[package]]
+name = "python-dateutil"
+version = "2.9.0.post0"
+source = { registry = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/simple" }
+dependencies = [
+    { name = "six" },
+]
+sdist = { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/python-dateutil/2.9.0.post0/python-dateutil-2.9.0.post0.tar.gz", hash = "sha256:37dd54208da7e1cd875388217d5e00ebd4179249f90fb72437e91a35459a0ad3" }
+wheels = [
+    { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/python-dateutil/2.9.0.post0/python_dateutil-2.9.0.post0-py2.py3-none-any.whl", hash = "sha256:a8b2bc7bffae282281c8140a97d3aa9c14da0b136dfe83f850eea9a5f7470427" },
+]
+
+[[package]]
+name = "pytz"
+version = "2025.2"
+source = { registry = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/simple" }
+sdist = { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/pytz/2025.2/pytz-2025.2.tar.gz", hash = "sha256:360b9e3dbb49a209c21ad61809c7fb453643e048b38924c765813546746e81c3" }
+wheels = [
+    { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/pytz/2025.2/pytz-2025.2-py2.py3-none-any.whl", hash = "sha256:5ddf76296dd8c44c26eb8f4b6f35488f3ccbf6fbbd7adee0b7262d43f0ec2f00" },
+]
+
+[[package]]
+name = "ruff"
+version = "0.14.8"
+source = { registry = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/simple" }
+sdist = { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/ruff/0.14.8/ruff-0.14.8.tar.gz", hash = "sha256:774ed0dd87d6ce925e3b8496feb3a00ac564bea52b9feb551ecd17e0a23d1eed" }
+wheels = [
+    { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/ruff/0.14.8/ruff-0.14.8-py3-none-linux_armv6l.whl", hash = "sha256:ec071e9c82eca417f6111fd39f7043acb53cd3fde9b1f95bbed745962e345afb" },
+    { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/ruff/0.14.8/ruff-0.14.8-py3-none-macosx_10_12_x86_64.whl", hash = "sha256:8cdb162a7159f4ca36ce980a18c43d8f036966e7f73f866ac8f493b75e0c27e9" },
+    { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/ruff/0.14.8/ruff-0.14.8-py3-none-macosx_11_0_arm64.whl", hash = "sha256:2e2fcbefe91f9fad0916850edf0854530c15bd1926b6b779de47e9ab619ea38f" },
+    { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/ruff/0.14.8/ruff-0.14.8-py3-none-manylinux_2_17_aarch64.manylinux2014_aarch64.whl", hash = "sha256:a9d70721066a296f45786ec31916dc287b44040f553da21564de0ab4d45a869b" },
+    { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/ruff/0.14.8/ruff-0.14.8-py3-none-manylinux_2_17_armv7l.manylinux2014_armv7l.whl", hash = "sha256:2c87e09b3cd9d126fc67a9ecd3b5b1d3ded2b9c7fce3f16e315346b9d05cfb52" },
+    { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/ruff/0.14.8/ruff-0.14.8-py3-none-manylinux_2_17_i686.manylinux2014_i686.whl", hash = "sha256:1d62cb310c4fbcb9ee4ac023fe17f984ae1e12b8a4a02e3d21489f9a2a5f730c" },
+    { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/ruff/0.14.8/ruff-0.14.8-py3-none-manylinux_2_17_ppc64.manylinux2014_ppc64.whl", hash = "sha256:1af35c2d62633d4da0521178e8a2641c636d2a7153da0bac1b30cfd4ccd91344" },
+    { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/ruff/0.14.8/ruff-0.14.8-py3-none-manylinux_2_17_ppc64le.manylinux2014_ppc64le.whl", hash = "sha256:25add4575ffecc53d60eed3f24b1e934493631b48ebbc6ebaf9d8517924aca4b" },
+    { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/ruff/0.14.8/ruff-0.14.8-py3-none-manylinux_2_17_s390x.manylinux2014_s390x.whl", hash = "sha256:4c943d847b7f02f7db4201a0600ea7d244d8a404fbb639b439e987edcf2baf9a" },
+    { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/ruff/0.14.8/ruff-0.14.8-py3-none-manylinux_2_17_x86_64.manylinux2014_x86_64.whl", hash = "sha256:cb6e8bf7b4f627548daa1b69283dac5a296bfe9ce856703b03130732e20ddfe2" },
+    { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/ruff/0.14.8/ruff-0.14.8-py3-none-manylinux_2_31_riscv64.whl", hash = "sha256:7aaf2974f378e6b01d1e257c6948207aec6a9b5ba53fab23d0182efb887a0e4a" },
+    { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/ruff/0.14.8/ruff-0.14.8-py3-none-musllinux_1_2_aarch64.whl", hash = "sha256:e5758ca513c43ad8a4ef13f0f081f80f08008f410790f3611a21a92421ab045b" },
+    { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/ruff/0.14.8/ruff-0.14.8-py3-none-musllinux_1_2_armv7l.whl", hash = "sha256:f74f7ba163b6e85a8d81a590363bf71618847e5078d90827749bfda1d88c9cdf" },
+    { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/ruff/0.14.8/ruff-0.14.8-py3-none-musllinux_1_2_i686.whl", hash = "sha256:eed28f6fafcc9591994c42254f5a5c5ca40e69a30721d2ab18bb0bb3baac3ab6" },
+    { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/ruff/0.14.8/ruff-0.14.8-py3-none-musllinux_1_2_x86_64.whl", hash = "sha256:21d48fa744c9d1cb8d71eb0a740c4dd02751a5de9db9a730a8ef75ca34cf138e" },
+    { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/ruff/0.14.8/ruff-0.14.8-py3-none-win32.whl", hash = "sha256:15f04cb45c051159baebb0f0037f404f1dc2f15a927418f29730f411a79bc4e7" },
+    { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/ruff/0.14.8/ruff-0.14.8-py3-none-win_amd64.whl", hash = "sha256:9eeb0b24242b5bbff3011409a739929f497f3fb5fe3b5698aba5e77e8c833097" },
+    { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/ruff/0.14.8/ruff-0.14.8-py3-none-win_arm64.whl", hash = "sha256:965a582c93c63fe715fd3e3f8aa37c4b776777203d8e1d8aa3cc0c14424a4b99" },
+]
+
+[[package]]
+name = "six"
+version = "1.17.0"
+source = { registry = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/simple" }
+sdist = { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/six/1.17.0/six-1.17.0.tar.gz", hash = "sha256:ff70335d468e7eb6ec65b95b99d3a2836546063f63acc5171de367e834932a81" }
+wheels = [
+    { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/six/1.17.0/six-1.17.0-py2.py3-none-any.whl", hash = "sha256:4721f391ed90541fddacab5acf947aa0d3dc7d27b2e1e8eda2be8970586c3274" },
+]
+
+[[package]]
+name = "suburb-profile"
+version = "0.1.0"
+source = { editable = "." }
+dependencies = [
+    { name = "numpy" },
+    { name = "pandas" },
+    { name = "playwright" },
+]
+
+[package.dev-dependencies]
+dev = [
+    { name = "pytest" },
+    { name = "ruff" },
+    { name = "uv-build" },
+]
+
+[package.metadata]
+requires-dist = [
+    { name = "numpy", specifier = ">=2.3.5" },
+    { name = "pandas", specifier = ">=2.3.3" },
+    { name = "playwright", specifier = ">=1.57.0" },
+]
+
+[package.metadata.requires-dev]
+dev = [
+    { name = "pytest", specifier = ">=9.0.2" },
+    { name = "ruff", specifier = ">=0.14.8" },
+    { name = "uv-build", specifier = ">=0.9.17,<0.10.0" },
+]
+
+[[package]]
+name = "typing-extensions"
+version = "4.15.0"
+source = { registry = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/simple" }
+sdist = { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/typing-extensions/4.15.0/typing_extensions-4.15.0.tar.gz", hash = "sha256:0cea48d173cc12fa28ecabc3b837ea3cf6f38c6d1136f85cbaaf598984861466" }
+wheels = [
+    { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/typing-extensions/4.15.0/typing_extensions-4.15.0-py3-none-any.whl", hash = "sha256:f0fa19c6845758ab08074a0cfa8b7aecb71c999ca73d62883bc25cc018c4e548" },
+]
+
+[[package]]
+name = "tzdata"
+version = "2025.2"
+source = { registry = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/simple" }
+sdist = { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/tzdata/2025.2/tzdata-2025.2.tar.gz", hash = "sha256:b60a638fcc0daffadf82fe0f57e53d06bdec2f36c4df66280ae79bce6bd6f2b9" }
+wheels = [
+    { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/tzdata/2025.2/tzdata-2025.2-py2.py3-none-any.whl", hash = "sha256:1a403fada01ff9221ca8044d701868fa132215d84beb92242d9acd2147f667a8" },
+]
+
+[[package]]
+name = "uv-build"
+version = "0.9.17"
+source = { registry = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/simple" }
+sdist = { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/uv-build/0.9.17/uv_build-0.9.17.tar.gz", hash = "sha256:aee981beef5503ac94c982a7205ca77c35b81eaadbb7f0c8583bd6a0f804fffc" }
+wheels = [
+    { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/uv-build/0.9.17/uv_build-0.9.17-py3-none-linux_armv6l.whl", hash = "sha256:f5b29f0f27b1316db0581e150b58f9fd04c5e575f5cd1c6c4a233721434f242a" },
+    { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/uv-build/0.9.17/uv_build-0.9.17-py3-none-macosx_10_12_x86_64.whl", hash = "sha256:f57e7a718433f48d6416f288fe0b26eeb8a4b695148db005655e60fda00fceea" },
+    { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/uv-build/0.9.17/uv_build-0.9.17-py3-none-macosx_11_0_arm64.whl", hash = "sha256:b4774eccc0818beb717ef21ac5a02cee98f7da1a52f70bd4567233c7ad7d147e" },
+    { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/uv-build/0.9.17/uv_build-0.9.17-py3-none-manylinux_2_17_aarch64.manylinux2014_aarch64.musllinux_1_1_aarch64.whl", hash = "sha256:dbb9ed766eaf86677d2393e20582eac20e937405d82d6c6fe8b9594997d57e25" },
+    { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/uv-build/0.9.17/uv_build-0.9.17-py3-none-manylinux_2_17_armv7l.manylinux2014_armv7l.whl", hash = "sha256:ad1adb31aa36dc3e4c02c7a9c8d2d2094c1d7c646ecb455b9fe1b982198f8be1" },
+    { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/uv-build/0.9.17/uv_build-0.9.17-py3-none-manylinux_2_17_i686.manylinux2014_i686.whl", hash = "sha256:9c28bc9c8d8d91108d09ebd13a57827a4e11d5f8d28f439eed9c7c00edda03ee" },
+    { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/uv-build/0.9.17/uv_build-0.9.17-py3-none-manylinux_2_17_ppc64.manylinux2014_ppc64.whl", hash = "sha256:d1067c9e08ad62cc1974d9ae82edbe20ca11115ec2244fc1b2c88f421ac5cb70" },
+    { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/uv-build/0.9.17/uv_build-0.9.17-py3-none-manylinux_2_17_ppc64le.manylinux2014_ppc64le.whl", hash = "sha256:6c0e3212e7231bca787013bcd94a9b2a8e4562af1ef4436e04b17927f61c3929" },
+    { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/uv-build/0.9.17/uv_build-0.9.17-py3-none-manylinux_2_17_s390x.manylinux2014_s390x.whl", hash = "sha256:175801aeed13397766eec7668eb38914c5b47f28663da08630a2fdf858a85ceb" },
+    { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/uv-build/0.9.17/uv_build-0.9.17-py3-none-manylinux_2_17_x86_64.manylinux2014_x86_64.whl", hash = "sha256:5abb1e474f7e7cac6a90d51b0a9dc813857e9f870d82f4e82c2a0e22cb416535" },
+    { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/uv-build/0.9.17/uv_build-0.9.17-py3-none-manylinux_2_28_aarch64.whl", hash = "sha256:ed8add98c766a2f969c19bc830a962bdac6eea8e76c7e887be3e1813bf024bae" },
+    { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/uv-build/0.9.17/uv_build-0.9.17-py3-none-manylinux_2_31_riscv64.whl", hash = "sha256:e60330abdc0dd327e99bacc5033f62ac9c97a4ac5b07704631573ce2f5f25f3f" },
+    { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/uv-build/0.9.17/uv_build-0.9.17-py3-none-musllinux_1_1_armv7l.whl", hash = "sha256:301b8941f7ca1cbddf4c4dc204ef21e131fc9f9f305373830245695e7b7cf2d1" },
+    { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/uv-build/0.9.17/uv_build-0.9.17-py3-none-musllinux_1_1_i686.whl", hash = "sha256:c94ca2096198048857e4e5523658f7752df2f2540a6bc04cb98cfcfc87e68975" },
+    { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/uv-build/0.9.17/uv_build-0.9.17-py3-none-musllinux_1_1_x86_64.whl", hash = "sha256:48194dce730f0898688da557167cee86aa7e9dea6270be9b5637d1a02912c3c7" },
+    { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/uv-build/0.9.17/uv_build-0.9.17-py3-none-win32.whl", hash = "sha256:c8eca102495a1ba09149504c55ab7d3f80c40fe931a90945917f3644de18d9e5" },
+    { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/uv-build/0.9.17/uv_build-0.9.17-py3-none-win_amd64.whl", hash = "sha256:16fec92319d31b95535e8dbf74b9e08cdec37d294e1cd98f499c3ed55ea452e7" },
+    { url = "https://sonatype-nexus.apps.dev-ocp-onprem.aipo.gov.au/repository/pypi-group/packages/uv-build/0.9.17/uv_build-0.9.17-py3-none-win_arm64.whl", hash = "sha256:389cd92c86b96d689cfd7113267e329c024bfd5596be043f03647bd49f64fa7a" },
+]
