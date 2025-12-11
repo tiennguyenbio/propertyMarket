@@ -4,7 +4,9 @@
 
 ### Install from the repo
 `git clone https://github.com/tiennguyenbio/propertyMarket.git
+
 cd suburb_profile
+
 uv pip install -e . 
 `
 ### Install from github
