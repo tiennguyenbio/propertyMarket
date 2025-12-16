@@ -1,0 +1,1652 @@
+{
+  "url": "https://www.realestate.com.au/act/curtin-2605/",
+  "title": "Curtin Property Market, House Prices, Investment Data & Suburb Profiles - realestate.com.au",
+  "insights": {
+    "buy": {
+      "all-bed": [
+        {
+          "value": "26 houses",
+          "description": "available in the past month"
+        },
+        {
+          "value": "64 sold",
+          "description": "in the past 12 months"
+        },
+        {
+          "value": "63 days",
+          "description": "median time on market"
+        },
+        {
+          "value": "546 buyers",
+          "description": "interested"
+        },
+        {
+          "value": "3.1%",
+          "description": "rental yield"
+        }
+      ],
+      "2-bed": [
+        {
+          "value": "0 houses",
+          "description": "available in the past month"
+        },
+        {
+          "value": "3 sold",
+          "description": "in the past 12 months"
+        },
+        {
+          "value": "–",
+          "description": "median time on market"
+        },
+        {
+          "value": "0 buyers",
+          "description": "interested"
+        },
+        {
+          "value": "2.9%",
+          "description": "rental yield"
+        }
+      ],
+      "3-bed": [
+        {
+          "value": "8 houses",
+          "description": "available in the past month"
+        },
+        {
+          "value": "21 sold",
+          "description": "in the past 12 months"
+        },
+        {
+          "value": "51 days",
+          "description": "median time on market"
+        },
+        {
+          "value": "169 buyers",
+          "description": "interested"
+        },
+        {
+          "value": "3.1%",
+          "description": "rental yield"
+        }
+      ],
+      "4-bed": [
+        {
+          "value": "12 houses",
+          "description": "available in the past month"
+        },
+        {
+          "value": "26 sold",
+          "description": "in the past 12 months"
+        },
+        {
+          "value": "63 days",
+          "description": "median time on market"
+        },
+        {
+          "value": "357 buyers",
+          "description": "interested"
+        },
+        {
+          "value": "3.2%",
+          "description": "rental yield"
+        }
+      ]
+    },
+    "rent": {
+      "all-bed": [
+        {
+          "value": "22 houses",
+          "description": "available in the past month"
+        },
+        {
+          "value": "75 leased",
+          "description": "in the past 12 months"
+        },
+        {
+          "value": "16 days",
+          "description": "median time on market"
+        },
+        {
+          "value": "360 renters",
+          "description": "interested"
+        }
+      ],
+      "2-bed": [
+        {
+          "value": "1 houses",
+          "description": "available in the past month"
+        },
+        {
+          "value": "2 leased",
+          "description": "in the past 12 months"
+        },
+        {
+          "value": "31 days",
+          "description": "median time on market"
+        },
+        {
+          "value": "63 renters",
+          "description": "interested"
+        }
+      ],
+      "3-bed": [
+        {
+          "value": "8 houses",
+          "description": "available in the past month"
+        },
+        {
+          "value": "34 leased",
+          "description": "in the past 12 months"
+        },
+        {
+          "value": "16 days",
+          "description": "median time on market"
+        },
+        {
+          "value": "128 renters",
+          "description": "interested"
+        }
+      ],
+      "4-bed": [
+        {
+          "value": "10 houses",
+          "description": "available in the past month"
+        },
+        {
+          "value": "29 leased",
+          "description": "in the past 12 months"
+        },
+        {
+          "value": "16 days",
+          "description": "median time on market"
+        },
+        {
+          "value": "195 renters",
+          "description": "interested"
+        }
+      ]
+    }
+  },
+  "median_snapshot": {
+    "buy": {
+      "all-bed": {
+        "median_price": "$1,422,500",
+        "median_time": "December 2024 - November 2025",
+        "past_12m_growth": "Past 12 month growth Up 0.5%"
+      },
+      "2-bed": {
+        "median_price": "–",
+        "median_time": null,
+        "past_12m_growth": "Past 12 month growth –"
+      },
+      "3-bed": {
+        "median_price": "$1,210,000",
+        "median_time": "December 2024 - November 2025",
+        "past_12m_growth": "Past 12 month growth Up 2.1%"
+      },
+      "4-bed": {
+        "median_price": "$1,477,500",
+        "median_time": "December 2024 - November 2025",
+        "past_12m_growth": "Past 12 month growth Down -8.7%"
+      }
+    },
+    "rent": {
+      "all-bed": {
+        "median_price": "$750 per week",
+        "median_time": "December 2024 - November 2025",
+        "past_12m_growth": "Past 12 month growth 0.0%"
+      },
+      "2-bed": {
+        "median_price": "– per week",
+        "median_time": null,
+        "past_12m_growth": "Past 12 month growth –"
+      },
+      "3-bed": {
+        "median_price": "$680 per week",
+        "median_time": "December 2024 - November 2025",
+        "past_12m_growth": "Past 12 month growth Up 0.4%"
+      },
+      "4-bed": {
+        "median_price": "$865 per week",
+        "median_time": "December 2024 - November 2025",
+        "past_12m_growth": "Past 12 month growth Down -0.6%"
+      }
+    }
+  },
+  "price_charts": {
+    "buy": {
+      "all-bed": [
+        {
+          "period": "Jan 2020 - Dec 2020",
+          "price": "$1,010,500\n\nMedian price based on 90 sales"
+        },
+        {
+          "period": "Feb 2020 - Jan 2021",
+          "price": "$1,015,000\n\nMedian price based on 91 sales"
+        },
+        {
+          "period": "Mar 2020 - Feb 2021",
+          "price": "$1,032,500\n\nMedian price based on 90 sales"
+        },
+        {
+          "period": "Apr 2020 - Mar 2021",
+          "price": "$1,082,500\n\nMedian price based on 92 sales"
+        },
+        {
+          "period": "May 2020 - Apr 2021",
+          "price": "$1,090,000\n\nMedian price based on 100 sales"
+        },
+        {
+          "period": "Jun 2020 - May 2021",
+          "price": "$1,120,000\n\nMedian price based on 101 sales"
+        },
+        {
+          "period": "Jul 2020 - Jun 2021",
+          "price": "$1,150,000\n\nMedian price based on 103 sales"
+        },
+        {
+          "period": "Aug 2020 - Jul 2021",
+          "price": "$1,200,000\n\nMedian price based on 110 sales"
+        },
+        {
+          "period": "Sep 2020 - Aug 2021",
+          "price": "$1,210,500\n\nMedian price based on 106 sales"
+        },
+        {
+          "period": "Oct 2020 - Sep 2021",
+          "price": "$1,256,000\n\nMedian price based on 106 sales"
+        },
+        {
+          "period": "Nov 2020 - Oct 2021",
+          "price": "$1,286,000\n\nMedian price based on 94 sales"
+        },
+        {
+          "period": "Dec 2020 - Nov 2021",
+          "price": "$1,300,000\n\nMedian price based on 89 sales"
+        },
+        {
+          "period": "Jan 2021 - Dec 2021",
+          "price": "$1,375,000\n\nMedian price based on 93 sales"
+        },
+        {
+          "period": "Feb 2021 - Jan 2022",
+          "price": "$1,370,000\n\nMedian price based on 95 sales"
+        },
+        {
+          "period": "Mar 2021 - Feb 2022",
+          "price": "$1,400,000\n\nMedian price based on 91 sales"
+        },
+        {
+          "period": "Apr 2021 - Mar 2022",
+          "price": "$1,420,500\n\nMedian price based on 88 sales"
+        },
+        {
+          "period": "May 2021 - Apr 2022",
+          "price": "$1,464,000\n\nMedian price based on 89 sales"
+        },
+        {
+          "period": "Jun 2021 - May 2022",
+          "price": "$1,472,000\n\nMedian price based on 90 sales"
+        },
+        {
+          "period": "Jul 2021 - Jun 2022",
+          "price": "$1,480,000\n\nMedian price based on 86 sales"
+        },
+        {
+          "period": "Aug 2021 - Jul 2022",
+          "price": "$1,487,500\n\nMedian price based on 76 sales"
+        },
+        {
+          "period": "Sep 2021 - Aug 2022",
+          "price": "$1,480,000\n\nMedian price based on 76 sales"
+        },
+        {
+          "period": "Oct 2021 - Sep 2022",
+          "price": "$1,464,000\n\nMedian price based on 77 sales"
+        },
+        {
+          "period": "Nov 2021 - Oct 2022",
+          "price": "$1,425,000\n\nMedian price based on 76 sales"
+        },
+        {
+          "period": "Dec 2021 - Nov 2022",
+          "price": "$1,425,000\n\nMedian price based on 76 sales"
+        },
+        {
+          "period": "Jan 2022 - Dec 2022",
+          "price": "$1,344,000\n\nMedian price based on 74 sales"
+        },
+        {
+          "period": "Feb 2022 - Jan 2023",
+          "price": "$1,375,000\n\nMedian price based on 69 sales"
+        },
+        {
+          "period": "Mar 2022 - Feb 2023",
+          "price": "$1,400,000\n\nMedian price based on 75 sales"
+        },
+        {
+          "period": "Apr 2022 - Mar 2023",
+          "price": "$1,342,500\n\nMedian price based on 68 sales"
+        },
+        {
+          "period": "May 2022 - Apr 2023",
+          "price": "$1,306,250\n\nMedian price based on 60 sales"
+        },
+        {
+          "period": "Jun 2022 - May 2023",
+          "price": "$1,300,000\n\nMedian price based on 56 sales"
+        },
+        {
+          "period": "Jul 2022 - Jun 2023",
+          "price": "$1,300,000\n\nMedian price based on 61 sales"
+        },
+        {
+          "period": "Aug 2022 - Jul 2023",
+          "price": "$1,312,500\n\nMedian price based on 62 sales"
+        },
+        {
+          "period": "Sep 2022 - Aug 2023",
+          "price": "$1,350,000\n\nMedian price based on 63 sales"
+        },
+        {
+          "period": "Oct 2022 - Sep 2023",
+          "price": "$1,377,500\n\nMedian price based on 62 sales"
+        },
+        {
+          "period": "Nov 2022 - Oct 2023",
+          "price": "$1,377,500\n\nMedian price based on 64 sales"
+        },
+        {
+          "period": "Dec 2022 - Nov 2023",
+          "price": "$1,335,000\n\nMedian price based on 69 sales"
+        },
+        {
+          "period": "Jan 2023 - Dec 2023",
+          "price": "$1,355,000\n\nMedian price based on 67 sales"
+        },
+        {
+          "period": "Feb 2023 - Jan 2024",
+          "price": "$1,333,500\n\nMedian price based on 68 sales"
+        },
+        {
+          "period": "Mar 2023 - Feb 2024",
+          "price": "$1,306,000\n\nMedian price based on 66 sales"
+        },
+        {
+          "period": "Apr 2023 - Mar 2024",
+          "price": "$1,312,000\n\nMedian price based on 69 sales"
+        },
+        {
+          "period": "May 2023 - Apr 2024",
+          "price": "$1,344,500\n\nMedian price based on 76 sales"
+        },
+        {
+          "period": "Jun 2023 - May 2024",
+          "price": "$1,380,000\n\nMedian price based on 83 sales"
+        },
+        {
+          "period": "Jul 2023 - Jun 2024",
+          "price": "$1,400,000\n\nMedian price based on 83 sales"
+        },
+        {
+          "period": "Aug 2023 - Jul 2024",
+          "price": "$1,415,000\n\nMedian price based on 84 sales"
+        },
+        {
+          "period": "Sep 2023 - Aug 2024",
+          "price": "$1,395,000\n\nMedian price based on 86 sales"
+        },
+        {
+          "period": "Oct 2023 - Sep 2024",
+          "price": "$1,415,000\n\nMedian price based on 92 sales"
+        },
+        {
+          "period": "Nov 2023 - Oct 2024",
+          "price": "$1,407,500\n\nMedian price based on 94 sales"
+        },
+        {
+          "period": "Dec 2023 - Nov 2024",
+          "price": "$1,415,000\n\nMedian price based on 91 sales"
+        },
+        {
+          "period": "Jan 2024 - Dec 2024",
+          "price": "$1,415,000\n\nMedian price based on 93 sales"
+        },
+        {
+          "period": "Feb 2024 - Jan 2025",
+          "price": "$1,415,000\n\nMedian price based on 93 sales"
+        },
+        {
+          "period": "Mar 2024 - Feb 2025",
+          "price": "$1,362,500\n\nMedian price based on 92 sales"
+        },
+        {
+          "period": "Apr 2024 - Mar 2025",
+          "price": "$1,355,000\n\nMedian price based on 91 sales"
+        },
+        {
+          "period": "May 2024 - Apr 2025",
+          "price": "$1,355,000\n\nMedian price based on 87 sales"
+        },
+        {
+          "period": "Jun 2024 - May 2025",
+          "price": "$1,325,000\n\nMedian price based on 85 sales"
+        },
+        {
+          "period": "Jul 2024 - Jun 2025",
+          "price": "$1,330,000\n\nMedian price based on 83 sales"
+        },
+        {
+          "period": "Aug 2024 - Jul 2025",
+          "price": "$1,342,500\n\nMedian price based on 86 sales"
+        },
+        {
+          "period": "Sep 2024 - Aug 2025",
+          "price": "$1,400,000\n\nMedian price based on 81 sales"
+        },
+        {
+          "period": "Oct 2024 - Sep 2025",
+          "price": "$1,376,500\n\nMedian price based on 74 sales"
+        },
+        {
+          "period": "Nov 2024 - Oct 2025",
+          "price": "$1,400,000\n\nMedian price based on 73 sales"
+        }
+      ],
+      "2-bed": [],
+      "3-bed": [
+        {
+          "period": "Jan 2020 - Dec 2020",
+          "price": "$900,500\n\nMedian price based on 26 sales"
+        },
+        {
+          "period": "Feb 2020 - Jan 2021",
+          "price": "$892,500\n\nMedian price based on 26 sales"
+        },
+        {
+          "period": "Mar 2020 - Feb 2021",
+          "price": "$887,750\n\nMedian price based on 28 sales"
+        },
+        {
+          "period": "Apr 2020 - Mar 2021",
+          "price": "$922,500\n\nMedian price based on 30 sales"
+        },
+        {
+          "period": "May 2020 - Apr 2021",
+          "price": "$922,500\n\nMedian price based on 34 sales"
+        },
+        {
+          "period": "Jun 2020 - May 2021",
+          "price": "$945,000\n\nMedian price based on 31 sales"
+        },
+        {
+          "period": "Jul 2020 - Jun 2021",
+          "price": "$947,500\n\nMedian price based on 32 sales"
+        },
+        {
+          "period": "Aug 2020 - Jul 2021",
+          "price": "$950,000\n\nMedian price based on 36 sales"
+        },
+        {
+          "period": "Sep 2020 - Aug 2021",
+          "price": "$968,000\n\nMedian price based on 32 sales"
+        },
+        {
+          "period": "Oct 2020 - Sep 2021",
+          "price": "$1,100,000\n\nMedian price based on 33 sales"
+        },
+        {
+          "period": "Nov 2020 - Oct 2021",
+          "price": "$1,140,000\n\nMedian price based on 30 sales"
+        },
+        {
+          "period": "Dec 2020 - Nov 2021",
+          "price": "$1,175,000\n\nMedian price based on 29 sales"
+        },
+        {
+          "period": "Jan 2021 - Dec 2021",
+          "price": "$1,185,000\n\nMedian price based on 31 sales"
+        },
+        {
+          "period": "Feb 2021 - Jan 2022",
+          "price": "$1,195,000\n\nMedian price based on 34 sales"
+        },
+        {
+          "period": "Mar 2021 - Feb 2022",
+          "price": "$1,200,000\n\nMedian price based on 33 sales"
+        },
+        {
+          "period": "Apr 2021 - Mar 2022",
+          "price": "$1,200,000\n\nMedian price based on 29 sales"
+        },
+        {
+          "period": "May 2021 - Apr 2022",
+          "price": "$1,235,000\n\nMedian price based on 28 sales"
+        },
+        {
+          "period": "Jun 2021 - May 2022",
+          "price": "$1,276,000\n\nMedian price based on 30 sales"
+        },
+        {
+          "period": "Jul 2021 - Jun 2022",
+          "price": "$1,291,000\n\nMedian price based on 30 sales"
+        },
+        {
+          "period": "Aug 2021 - Jul 2022",
+          "price": "$1,312,500\n\nMedian price based on 28 sales"
+        },
+        {
+          "period": "Sep 2021 - Aug 2022",
+          "price": "$1,300,000\n\nMedian price based on 31 sales"
+        },
+        {
+          "period": "Oct 2021 - Sep 2022",
+          "price": "$1,300,000\n\nMedian price based on 29 sales"
+        },
+        {
+          "period": "Nov 2021 - Oct 2022",
+          "price": "$1,300,000\n\nMedian price based on 30 sales"
+        },
+        {
+          "period": "Dec 2021 - Nov 2022",
+          "price": "$1,300,000\n\nMedian price based on 31 sales"
+        },
+        {
+          "period": "Jan 2022 - Dec 2022",
+          "price": "$1,300,000\n\nMedian price based on 31 sales"
+        },
+        {
+          "period": "Feb 2022 - Jan 2023",
+          "price": "$1,300,000\n\nMedian price based on 27 sales"
+        },
+        {
+          "period": "Mar 2022 - Feb 2023",
+          "price": "$1,257,500\n\nMedian price based on 28 sales"
+        },
+        {
+          "period": "Apr 2022 - Mar 2023",
+          "price": "$1,254,000\n\nMedian price based on 27 sales"
+        },
+        {
+          "period": "May 2022 - Apr 2023",
+          "price": "$1,250,000\n\nMedian price based on 25 sales"
+        },
+        {
+          "period": "Jun 2022 - May 2023",
+          "price": "$1,249,500\n\nMedian price based on 22 sales"
+        },
+        {
+          "period": "Jul 2022 - Jun 2023",
+          "price": "$1,249,000\n\nMedian price based on 23 sales"
+        },
+        {
+          "period": "Aug 2022 - Jul 2023",
+          "price": "$1,250,000\n\nMedian price based on 21 sales"
+        },
+        {
+          "period": "Sep 2022 - Aug 2023",
+          "price": "$1,242,000\n\nMedian price based on 20 sales"
+        },
+        {
+          "period": "Oct 2022 - Sep 2023",
+          "price": "$1,242,000\n\nMedian price based on 22 sales"
+        },
+        {
+          "period": "Nov 2022 - Oct 2023",
+          "price": "$1,235,000\n\nMedian price based on 23 sales"
+        },
+        {
+          "period": "Dec 2022 - Nov 2023",
+          "price": "$1,195,000\n\nMedian price based on 27 sales"
+        },
+        {
+          "period": "Jan 2023 - Dec 2023",
+          "price": "$1,225,500\n\nMedian price based on 26 sales"
+        },
+        {
+          "period": "Feb 2023 - Jan 2024",
+          "price": "$1,225,500\n\nMedian price based on 28 sales"
+        },
+        {
+          "period": "Mar 2023 - Feb 2024",
+          "price": "$1,226,000\n\nMedian price based on 28 sales"
+        },
+        {
+          "period": "Apr 2023 - Mar 2024",
+          "price": "$1,226,000\n\nMedian price based on 28 sales"
+        },
+        {
+          "period": "May 2023 - Apr 2024",
+          "price": "$1,280,000\n\nMedian price based on 29 sales"
+        },
+        {
+          "period": "Jun 2023 - May 2024",
+          "price": "$1,248,500\n\nMedian price based on 34 sales"
+        },
+        {
+          "period": "Jul 2023 - Jun 2024",
+          "price": "$1,240,000\n\nMedian price based on 33 sales"
+        },
+        {
+          "period": "Aug 2023 - Jul 2024",
+          "price": "$1,245,000\n\nMedian price based on 34 sales"
+        },
+        {
+          "period": "Sep 2023 - Aug 2024",
+          "price": "$1,216,500\n\nMedian price based on 36 sales"
+        },
+        {
+          "period": "Oct 2023 - Sep 2024",
+          "price": "$1,205,500\n\nMedian price based on 36 sales"
+        },
+        {
+          "period": "Nov 2023 - Oct 2024",
+          "price": "$1,200,000\n\nMedian price based on 37 sales"
+        },
+        {
+          "period": "Dec 2023 - Nov 2024",
+          "price": "$1,185,000\n\nMedian price based on 35 sales"
+        },
+        {
+          "period": "Jan 2024 - Dec 2024",
+          "price": "$1,176,500\n\nMedian price based on 38 sales"
+        },
+        {
+          "period": "Feb 2024 - Jan 2025",
+          "price": "$1,170,000\n\nMedian price based on 37 sales"
+        },
+        {
+          "period": "Mar 2024 - Feb 2025",
+          "price": "$1,184,000\n\nMedian price based on 38 sales"
+        },
+        {
+          "period": "Apr 2024 - Mar 2025",
+          "price": "$1,184,000\n\nMedian price based on 38 sales"
+        },
+        {
+          "period": "May 2024 - Apr 2025",
+          "price": "$1,170,000\n\nMedian price based on 37 sales"
+        },
+        {
+          "period": "Jun 2024 - May 2025",
+          "price": "$1,165,000\n\nMedian price based on 34 sales"
+        },
+        {
+          "period": "Jul 2024 - Jun 2025",
+          "price": "$1,160,000\n\nMedian price based on 33 sales"
+        },
+        {
+          "period": "Aug 2024 - Jul 2025",
+          "price": "$1,177,500\n\nMedian price based on 36 sales"
+        },
+        {
+          "period": "Sep 2024 - Aug 2025",
+          "price": "$1,185,000\n\nMedian price based on 31 sales"
+        },
+        {
+          "period": "Oct 2024 - Sep 2025",
+          "price": "$1,200,000\n\nMedian price based on 29 sales"
+        },
+        {
+          "period": "Nov 2024 - Oct 2025",
+          "price": "$1,205,000\n\nMedian price based on 26 sales"
+        }
+      ],
+      "4-bed": [
+        {
+          "period": "Jan 2020 - Dec 2020",
+          "price": "$1,065,000\n\nMedian price based on 43 sales"
+        },
+        {
+          "period": "Feb 2020 - Jan 2021",
+          "price": "$1,082,500\n\nMedian price based on 46 sales"
+        },
+        {
+          "period": "Mar 2020 - Feb 2021",
+          "price": "$1,150,000\n\nMedian price based on 45 sales"
+        },
+        {
+          "period": "Apr 2020 - Mar 2021",
+          "price": "$1,150,000\n\nMedian price based on 46 sales"
+        },
+        {
+          "period": "May 2020 - Apr 2021",
+          "price": "$1,180,000\n\nMedian price based on 49 sales"
+        },
+        {
+          "period": "Jun 2020 - May 2021",
+          "price": "$1,205,000\n\nMedian price based on 52 sales"
+        },
+        {
+          "period": "Jul 2020 - Jun 2021",
+          "price": "$1,225,000\n\nMedian price based on 52 sales"
+        },
+        {
+          "period": "Aug 2020 - Jul 2021",
+          "price": "$1,285,000\n\nMedian price based on 56 sales"
+        },
+        {
+          "period": "Sep 2020 - Aug 2021",
+          "price": "$1,295,000\n\nMedian price based on 56 sales"
+        },
+        {
+          "period": "Oct 2020 - Sep 2021",
+          "price": "$1,300,000\n\nMedian price based on 55 sales"
+        },
+        {
+          "period": "Nov 2020 - Oct 2021",
+          "price": "$1,370,000\n\nMedian price based on 49 sales"
+        },
+        {
+          "period": "Dec 2020 - Nov 2021",
+          "price": "$1,400,000\n\nMedian price based on 47 sales"
+        },
+        {
+          "period": "Jan 2021 - Dec 2021",
+          "price": "$1,561,000\n\nMedian price based on 47 sales"
+        },
+        {
+          "period": "Feb 2021 - Jan 2022",
+          "price": "$1,561,000\n\nMedian price based on 45 sales"
+        },
+        {
+          "period": "Mar 2021 - Feb 2022",
+          "price": "$1,580,000\n\nMedian price based on 43 sales"
+        },
+        {
+          "period": "Apr 2021 - Mar 2022",
+          "price": "$1,597,500\n\nMedian price based on 44 sales"
+        },
+        {
+          "period": "May 2021 - Apr 2022",
+          "price": "$1,597,500\n\nMedian price based on 46 sales"
+        },
+        {
+          "period": "Jun 2021 - May 2022",
+          "price": "$1,633,000\n\nMedian price based on 44 sales"
+        },
+        {
+          "period": "Jul 2021 - Jun 2022",
+          "price": "$1,645,000\n\nMedian price based on 41 sales"
+        },
+        {
+          "period": "Aug 2021 - Jul 2022",
+          "price": "$1,650,000\n\nMedian price based on 35 sales"
+        },
+        {
+          "period": "Sep 2021 - Aug 2022",
+          "price": "$1,626,000\n\nMedian price based on 33 sales"
+        },
+        {
+          "period": "Oct 2021 - Sep 2022",
+          "price": "$1,623,000\n\nMedian price based on 36 sales"
+        },
+        {
+          "period": "Nov 2021 - Oct 2022",
+          "price": "$1,572,500\n\nMedian price based on 36 sales"
+        },
+        {
+          "period": "Dec 2021 - Nov 2022",
+          "price": "$1,515,000\n\nMedian price based on 34 sales"
+        },
+        {
+          "period": "Jan 2022 - Dec 2022",
+          "price": "$1,457,000\n\nMedian price based on 34 sales"
+        },
+        {
+          "period": "Feb 2022 - Jan 2023",
+          "price": "$1,457,000\n\nMedian price based on 34 sales"
+        },
+        {
+          "period": "Mar 2022 - Feb 2023",
+          "price": "$1,475,000\n\nMedian price based on 38 sales"
+        },
+        {
+          "period": "Apr 2022 - Mar 2023",
+          "price": "$1,467,000\n\nMedian price based on 32 sales"
+        },
+        {
+          "period": "May 2022 - Apr 2023",
+          "price": "$1,450,000\n\nMedian price based on 27 sales"
+        },
+        {
+          "period": "Jun 2022 - May 2023",
+          "price": "$1,432,500\n\nMedian price based on 26 sales"
+        },
+        {
+          "period": "Jul 2022 - Jun 2023",
+          "price": "$1,432,500\n\nMedian price based on 30 sales"
+        },
+        {
+          "period": "Aug 2022 - Jul 2023",
+          "price": "$1,432,500\n\nMedian price based on 30 sales"
+        },
+        {
+          "period": "Sep 2022 - Aug 2023",
+          "price": "$1,440,000\n\nMedian price based on 29 sales"
+        },
+        {
+          "period": "Oct 2022 - Sep 2023",
+          "price": "$1,440,000\n\nMedian price based on 25 sales"
+        },
+        {
+          "period": "Nov 2022 - Oct 2023",
+          "price": "$1,445,000\n\nMedian price based on 24 sales"
+        },
+        {
+          "period": "Dec 2022 - Nov 2023",
+          "price": "$1,454,500\n\nMedian price based on 26 sales"
+        },
+        {
+          "period": "Jan 2023 - Dec 2023",
+          "price": "$1,455,000\n\nMedian price based on 23 sales"
+        },
+        {
+          "period": "Feb 2023 - Jan 2024",
+          "price": "$1,462,500\n\nMedian price based on 22 sales"
+        },
+        {
+          "period": "Mar 2023 - Feb 2024",
+          "price": "$1,454,000\n\nMedian price based on 19 sales"
+        },
+        {
+          "period": "Apr 2023 - Mar 2024",
+          "price": "$1,454,000\n\nMedian price based on 21 sales"
+        },
+        {
+          "period": "May 2023 - Apr 2024",
+          "price": "$1,437,000\n\nMedian price based on 24 sales"
+        },
+        {
+          "period": "Jun 2023 - May 2024",
+          "price": "$1,500,000\n\nMedian price based on 25 sales"
+        },
+        {
+          "period": "Jul 2023 - Jun 2024",
+          "price": "$1,560,000\n\nMedian price based on 27 sales"
+        },
+        {
+          "period": "Aug 2023 - Jul 2024",
+          "price": "$1,600,000\n\nMedian price based on 30 sales"
+        },
+        {
+          "period": "Sep 2023 - Aug 2024",
+          "price": "$1,600,000\n\nMedian price based on 31 sales"
+        },
+        {
+          "period": "Oct 2023 - Sep 2024",
+          "price": "$1,642,500\n\nMedian price based on 36 sales"
+        },
+        {
+          "period": "Nov 2023 - Oct 2024",
+          "price": "$1,650,000\n\nMedian price based on 37 sales"
+        },
+        {
+          "period": "Dec 2023 - Nov 2024",
+          "price": "$1,617,500\n\nMedian price based on 36 sales"
+        },
+        {
+          "period": "Jan 2024 - Dec 2024",
+          "price": "$1,617,500\n\nMedian price based on 36 sales"
+        },
+        {
+          "period": "Feb 2024 - Jan 2025",
+          "price": "$1,600,000\n\nMedian price based on 37 sales"
+        },
+        {
+          "period": "Mar 2024 - Feb 2025",
+          "price": "$1,635,000\n\nMedian price based on 37 sales"
+        },
+        {
+          "period": "Apr 2024 - Mar 2025",
+          "price": "$1,660,000\n\nMedian price based on 36 sales"
+        },
+        {
+          "period": "May 2024 - Apr 2025",
+          "price": "$1,627,500\n\nMedian price based on 36 sales"
+        },
+        {
+          "period": "Jun 2024 - May 2025",
+          "price": "$1,620,000\n\nMedian price based on 39 sales"
+        },
+        {
+          "period": "Jul 2024 - Jun 2025",
+          "price": "$1,523,000\n\nMedian price based on 35 sales"
+        },
+        {
+          "period": "Aug 2024 - Jul 2025",
+          "price": "$1,492,500\n\nMedian price based on 32 sales"
+        },
+        {
+          "period": "Sep 2024 - Aug 2025",
+          "price": "$1,500,000\n\nMedian price based on 31 sales"
+        },
+        {
+          "period": "Oct 2024 - Sep 2025",
+          "price": "$1,470,000\n\nMedian price based on 27 sales"
+        },
+        {
+          "period": "Nov 2024 - Oct 2025",
+          "price": "$1,478,000\n\nMedian price based on 29 sales"
+        }
+      ]
+    },
+    "rent": {
+      "all-bed": [
+        {
+          "period": "Jan 2020 - Dec 2020",
+          "price": "$625 per week\n\nMedian rental price based on 68 leased"
+        },
+        {
+          "period": "Feb 2020 - Jan 2021",
+          "price": "$630 per week\n\nMedian rental price based on 63 leased"
+        },
+        {
+          "period": "Mar 2020 - Feb 2021",
+          "price": "$630 per week\n\nMedian rental price based on 63 leased"
+        },
+        {
+          "period": "Apr 2020 - Mar 2021",
+          "price": "$630 per week\n\nMedian rental price based on 60 leased"
+        },
+        {
+          "period": "May 2020 - Apr 2021",
+          "price": "$630 per week\n\nMedian rental price based on 59 leased"
+        },
+        {
+          "period": "Jun 2020 - May 2021",
+          "price": "$630 per week\n\nMedian rental price based on 57 leased"
+        },
+        {
+          "period": "Jul 2020 - Jun 2021",
+          "price": "$650 per week\n\nMedian rental price based on 58 leased"
+        },
+        {
+          "period": "Aug 2020 - Jul 2021",
+          "price": "$650 per week\n\nMedian rental price based on 54 leased"
+        },
+        {
+          "period": "Sep 2020 - Aug 2021",
+          "price": "$650 per week\n\nMedian rental price based on 52 leased"
+        },
+        {
+          "period": "Oct 2020 - Sep 2021",
+          "price": "$650 per week\n\nMedian rental price based on 53 leased"
+        },
+        {
+          "period": "Nov 2020 - Oct 2021",
+          "price": "$650 per week\n\nMedian rental price based on 55 leased"
+        },
+        {
+          "period": "Dec 2020 - Nov 2021",
+          "price": "$650 per week\n\nMedian rental price based on 55 leased"
+        },
+        {
+          "period": "Jan 2021 - Dec 2021",
+          "price": "$670 per week\n\nMedian rental price based on 53 leased"
+        },
+        {
+          "period": "Feb 2021 - Jan 2022",
+          "price": "$670 per week\n\nMedian rental price based on 57 leased"
+        },
+        {
+          "period": "Mar 2021 - Feb 2022",
+          "price": "$680 per week\n\nMedian rental price based on 59 leased"
+        },
+        {
+          "period": "Apr 2021 - Mar 2022",
+          "price": "$680 per week\n\nMedian rental price based on 61 leased"
+        },
+        {
+          "period": "May 2021 - Apr 2022",
+          "price": "$675 per week\n\nMedian rental price based on 60 leased"
+        },
+        {
+          "period": "Jun 2021 - May 2022",
+          "price": "$680 per week\n\nMedian rental price based on 59 leased"
+        },
+        {
+          "period": "Jul 2021 - Jun 2022",
+          "price": "$700 per week\n\nMedian rental price based on 63 leased"
+        },
+        {
+          "period": "Aug 2021 - Jul 2022",
+          "price": "$714 per week\n\nMedian rental price based on 82 leased"
+        },
+        {
+          "period": "Sep 2021 - Aug 2022",
+          "price": "$714 per week\n\nMedian rental price based on 81 leased"
+        },
+        {
+          "period": "Oct 2021 - Sep 2022",
+          "price": "$712 per week\n\nMedian rental price based on 82 leased"
+        },
+        {
+          "period": "Nov 2021 - Oct 2022",
+          "price": "$715 per week\n\nMedian rental price based on 81 leased"
+        },
+        {
+          "period": "Dec 2021 - Nov 2022",
+          "price": "$720 per week\n\nMedian rental price based on 84 leased"
+        },
+        {
+          "period": "Jan 2022 - Dec 2022",
+          "price": "$722 per week\n\nMedian rental price based on 84 leased"
+        },
+        {
+          "period": "Feb 2022 - Jan 2023",
+          "price": "$750 per week\n\nMedian rental price based on 95 leased"
+        },
+        {
+          "period": "Mar 2022 - Feb 2023",
+          "price": "$750 per week\n\nMedian rental price based on 92 leased"
+        },
+        {
+          "period": "Apr 2022 - Mar 2023",
+          "price": "$750 per week\n\nMedian rental price based on 100 leased"
+        },
+        {
+          "period": "May 2022 - Apr 2023",
+          "price": "$750 per week\n\nMedian rental price based on 102 leased"
+        },
+        {
+          "period": "Jun 2022 - May 2023",
+          "price": "$750 per week\n\nMedian rental price based on 106 leased"
+        },
+        {
+          "period": "Jul 2022 - Jun 2023",
+          "price": "$750 per week\n\nMedian rental price based on 103 leased"
+        },
+        {
+          "period": "Aug 2022 - Jul 2023",
+          "price": "$720 per week\n\nMedian rental price based on 90 leased"
+        },
+        {
+          "period": "Sep 2022 - Aug 2023",
+          "price": "$720 per week\n\nMedian rental price based on 96 leased"
+        },
+        {
+          "period": "Oct 2022 - Sep 2023",
+          "price": "$720 per week\n\nMedian rental price based on 98 leased"
+        },
+        {
+          "period": "Nov 2022 - Oct 2023",
+          "price": "$740 per week\n\nMedian rental price based on 99 leased"
+        },
+        {
+          "period": "Dec 2022 - Nov 2023",
+          "price": "$720 per week\n\nMedian rental price based on 97 leased"
+        },
+        {
+          "period": "Jan 2023 - Dec 2023",
+          "price": "$720 per week\n\nMedian rental price based on 100 leased"
+        },
+        {
+          "period": "Feb 2023 - Jan 2024",
+          "price": "$730 per week\n\nMedian rental price based on 88 leased"
+        },
+        {
+          "period": "Mar 2023 - Feb 2024",
+          "price": "$740 per week\n\nMedian rental price based on 89 leased"
+        },
+        {
+          "period": "Apr 2023 - Mar 2024",
+          "price": "$720 per week\n\nMedian rental price based on 88 leased"
+        },
+        {
+          "period": "May 2023 - Apr 2024",
+          "price": "$725 per week\n\nMedian rental price based on 90 leased"
+        },
+        {
+          "period": "Jun 2023 - May 2024",
+          "price": "$725 per week\n\nMedian rental price based on 90 leased"
+        },
+        {
+          "period": "Jul 2023 - Jun 2024",
+          "price": "$720 per week\n\nMedian rental price based on 95 leased"
+        },
+        {
+          "period": "Aug 2023 - Jul 2024",
+          "price": "$722 per week\n\nMedian rental price based on 94 leased"
+        },
+        {
+          "period": "Sep 2023 - Aug 2024",
+          "price": "$740 per week\n\nMedian rental price based on 87 leased"
+        },
+        {
+          "period": "Oct 2023 - Sep 2024",
+          "price": "$750 per week\n\nMedian rental price based on 87 leased"
+        },
+        {
+          "period": "Nov 2023 - Oct 2024",
+          "price": "$750 per week\n\nMedian rental price based on 80 leased"
+        },
+        {
+          "period": "Dec 2023 - Nov 2024",
+          "price": "$750 per week\n\nMedian rental price based on 82 leased"
+        },
+        {
+          "period": "Jan 2024 - Dec 2024",
+          "price": "$750 per week\n\nMedian rental price based on 83 leased"
+        },
+        {
+          "period": "Feb 2024 - Jan 2025",
+          "price": "$750 per week\n\nMedian rental price based on 86 leased"
+        },
+        {
+          "period": "Mar 2024 - Feb 2025",
+          "price": "$750 per week\n\nMedian rental price based on 84 leased"
+        },
+        {
+          "period": "Apr 2024 - Mar 2025",
+          "price": "$750 per week\n\nMedian rental price based on 85 leased"
+        },
+        {
+          "period": "May 2024 - Apr 2025",
+          "price": "$750 per week\n\nMedian rental price based on 84 leased"
+        },
+        {
+          "period": "Jun 2024 - May 2025",
+          "price": "$750 per week\n\nMedian rental price based on 78 leased"
+        },
+        {
+          "period": "Jul 2024 - Jun 2025",
+          "price": "$750 per week\n\nMedian rental price based on 72 leased"
+        },
+        {
+          "period": "Aug 2024 - Jul 2025",
+          "price": "$750 per week\n\nMedian rental price based on 74 leased"
+        },
+        {
+          "period": "Sep 2024 - Aug 2025",
+          "price": "$750 per week\n\nMedian rental price based on 79 leased"
+        },
+        {
+          "period": "Oct 2024 - Sep 2025",
+          "price": "$750 per week\n\nMedian rental price based on 77 leased"
+        },
+        {
+          "period": "Nov 2024 - Oct 2025",
+          "price": "$750 per week\n\nMedian rental price based on 81 leased"
+        }
+      ],
+      "2-bed": [],
+      "3-bed": [
+        {
+          "period": "Jan 2020 - Dec 2020",
+          "price": "$610 per week\n\nMedian rental price based on 37 leased"
+        },
+        {
+          "period": "Feb 2020 - Jan 2021",
+          "price": "$620 per week\n\nMedian rental price based on 33 leased"
+        },
+        {
+          "period": "Mar 2020 - Feb 2021",
+          "price": "$620 per week\n\nMedian rental price based on 31 leased"
+        },
+        {
+          "period": "Apr 2020 - Mar 2021",
+          "price": "$620 per week\n\nMedian rental price based on 31 leased"
+        },
+        {
+          "period": "May 2020 - Apr 2021",
+          "price": "$620 per week\n\nMedian rental price based on 30 leased"
+        },
+        {
+          "period": "Jun 2020 - May 2021",
+          "price": "$610 per week\n\nMedian rental price based on 29 leased"
+        },
+        {
+          "period": "Jul 2020 - Jun 2021",
+          "price": "$615 per week\n\nMedian rental price based on 28 leased"
+        },
+        {
+          "period": "Aug 2020 - Jul 2021",
+          "price": "$610 per week\n\nMedian rental price based on 27 leased"
+        },
+        {
+          "period": "Sep 2020 - Aug 2021",
+          "price": "$610 per week\n\nMedian rental price based on 24 leased"
+        },
+        {
+          "period": "Oct 2020 - Sep 2021",
+          "price": "$610 per week\n\nMedian rental price based on 24 leased"
+        },
+        {
+          "period": "Nov 2020 - Oct 2021",
+          "price": "$610 per week\n\nMedian rental price based on 24 leased"
+        },
+        {
+          "period": "Dec 2020 - Nov 2021",
+          "price": "$617 per week\n\nMedian rental price based on 26 leased"
+        },
+        {
+          "period": "Jan 2021 - Dec 2021",
+          "price": "$630 per week\n\nMedian rental price based on 23 leased"
+        },
+        {
+          "period": "Feb 2021 - Jan 2022",
+          "price": "$630 per week\n\nMedian rental price based on 27 leased"
+        },
+        {
+          "period": "Mar 2021 - Feb 2022",
+          "price": "$640 per week\n\nMedian rental price based on 28 leased"
+        },
+        {
+          "period": "Apr 2021 - Mar 2022",
+          "price": "$640 per week\n\nMedian rental price based on 29 leased"
+        },
+        {
+          "period": "May 2021 - Apr 2022",
+          "price": "$635 per week\n\nMedian rental price based on 28 leased"
+        },
+        {
+          "period": "Jun 2021 - May 2022",
+          "price": "$650 per week\n\nMedian rental price based on 26 leased"
+        },
+        {
+          "period": "Jul 2021 - Jun 2022",
+          "price": "$660 per week\n\nMedian rental price based on 30 leased"
+        },
+        {
+          "period": "Aug 2021 - Jul 2022",
+          "price": "$650 per week\n\nMedian rental price based on 36 leased"
+        },
+        {
+          "period": "Sep 2021 - Aug 2022",
+          "price": "$650 per week\n\nMedian rental price based on 38 leased"
+        },
+        {
+          "period": "Oct 2021 - Sep 2022",
+          "price": "$650 per week\n\nMedian rental price based on 37 leased"
+        },
+        {
+          "period": "Nov 2021 - Oct 2022",
+          "price": "$670 per week\n\nMedian rental price based on 38 leased"
+        },
+        {
+          "period": "Dec 2021 - Nov 2022",
+          "price": "$670 per week\n\nMedian rental price based on 37 leased"
+        },
+        {
+          "period": "Jan 2022 - Dec 2022",
+          "price": "$660 per week\n\nMedian rental price based on 40 leased"
+        },
+        {
+          "period": "Feb 2022 - Jan 2023",
+          "price": "$650 per week\n\nMedian rental price based on 45 leased"
+        },
+        {
+          "period": "Mar 2022 - Feb 2023",
+          "price": "$650 per week\n\nMedian rental price based on 44 leased"
+        },
+        {
+          "period": "Apr 2022 - Mar 2023",
+          "price": "$650 per week\n\nMedian rental price based on 46 leased"
+        },
+        {
+          "period": "May 2022 - Apr 2023",
+          "price": "$650 per week\n\nMedian rental price based on 47 leased"
+        },
+        {
+          "period": "Jun 2022 - May 2023",
+          "price": "$650 per week\n\nMedian rental price based on 48 leased"
+        },
+        {
+          "period": "Jul 2022 - Jun 2023",
+          "price": "$650 per week\n\nMedian rental price based on 44 leased"
+        },
+        {
+          "period": "Aug 2022 - Jul 2023",
+          "price": "$650 per week\n\nMedian rental price based on 44 leased"
+        },
+        {
+          "period": "Sep 2022 - Aug 2023",
+          "price": "$650 per week\n\nMedian rental price based on 46 leased"
+        },
+        {
+          "period": "Oct 2022 - Sep 2023",
+          "price": "$650 per week\n\nMedian rental price based on 49 leased"
+        },
+        {
+          "period": "Nov 2022 - Oct 2023",
+          "price": "$650 per week\n\nMedian rental price based on 46 leased"
+        },
+        {
+          "period": "Dec 2022 - Nov 2023",
+          "price": "$650 per week\n\nMedian rental price based on 48 leased"
+        },
+        {
+          "period": "Jan 2023 - Dec 2023",
+          "price": "$650 per week\n\nMedian rental price based on 45 leased"
+        },
+        {
+          "period": "Feb 2023 - Jan 2024",
+          "price": "$650 per week\n\nMedian rental price based on 38 leased"
+        },
+        {
+          "period": "Mar 2023 - Feb 2024",
+          "price": "$650 per week\n\nMedian rental price based on 39 leased"
+        },
+        {
+          "period": "Apr 2023 - Mar 2024",
+          "price": "$650 per week\n\nMedian rental price based on 42 leased"
+        },
+        {
+          "period": "May 2023 - Apr 2024",
+          "price": "$650 per week\n\nMedian rental price based on 41 leased"
+        },
+        {
+          "period": "Jun 2023 - May 2024",
+          "price": "$650 per week\n\nMedian rental price based on 41 leased"
+        },
+        {
+          "period": "Jul 2023 - Jun 2024",
+          "price": "$655 per week\n\nMedian rental price based on 46 leased"
+        },
+        {
+          "period": "Aug 2023 - Jul 2024",
+          "price": "$670 per week\n\nMedian rental price based on 41 leased"
+        },
+        {
+          "period": "Sep 2023 - Aug 2024",
+          "price": "$675 per week\n\nMedian rental price based on 37 leased"
+        },
+        {
+          "period": "Oct 2023 - Sep 2024",
+          "price": "$677 per week\n\nMedian rental price based on 36 leased"
+        },
+        {
+          "period": "Nov 2023 - Oct 2024",
+          "price": "$675 per week\n\nMedian rental price based on 35 leased"
+        },
+        {
+          "period": "Dec 2023 - Nov 2024",
+          "price": "$677 per week\n\nMedian rental price based on 34 leased"
+        },
+        {
+          "period": "Jan 2024 - Dec 2024",
+          "price": "$677 per week\n\nMedian rental price based on 36 leased"
+        },
+        {
+          "period": "Feb 2024 - Jan 2025",
+          "price": "$675 per week\n\nMedian rental price based on 39 leased"
+        },
+        {
+          "period": "Mar 2024 - Feb 2025",
+          "price": "$675 per week\n\nMedian rental price based on 38 leased"
+        },
+        {
+          "period": "Apr 2024 - Mar 2025",
+          "price": "$675 per week\n\nMedian rental price based on 38 leased"
+        },
+        {
+          "period": "May 2024 - Apr 2025",
+          "price": "$675 per week\n\nMedian rental price based on 40 leased"
+        },
+        {
+          "period": "Jun 2024 - May 2025",
+          "price": "$675 per week\n\nMedian rental price based on 37 leased"
+        },
+        {
+          "period": "Jul 2024 - Jun 2025",
+          "price": "$675 per week\n\nMedian rental price based on 32 leased"
+        },
+        {
+          "period": "Aug 2024 - Jul 2025",
+          "price": "$677 per week\n\nMedian rental price based on 34 leased"
+        },
+        {
+          "period": "Sep 2024 - Aug 2025",
+          "price": "$680 per week\n\nMedian rental price based on 37 leased"
+        },
+        {
+          "period": "Oct 2024 - Sep 2025",
+          "price": "$680 per week\n\nMedian rental price based on 37 leased"
+        },
+        {
+          "period": "Nov 2024 - Oct 2025",
+          "price": "$680 per week\n\nMedian rental price based on 36 leased"
+        }
+      ],
+      "4-bed": [
+        {
+          "period": "Jan 2020 - Dec 2020",
+          "price": "$677 per week\n\nMedian rental price based on 18 leased"
+        },
+        {
+          "period": "Feb 2020 - Jan 2021",
+          "price": "$692 per week\n\nMedian rental price based on 18 leased"
+        },
+        {
+          "period": "Mar 2020 - Feb 2021",
+          "price": "$692 per week\n\nMedian rental price based on 20 leased"
+        },
+        {
+          "period": "Apr 2020 - Mar 2021",
+          "price": "$695 per week\n\nMedian rental price based on 19 leased"
+        },
+        {
+          "period": "May 2020 - Apr 2021",
+          "price": "$740 per week\n\nMedian rental price based on 19 leased"
+        },
+        {
+          "period": "Jun 2020 - May 2021",
+          "price": "$750 per week\n\nMedian rental price based on 18 leased"
+        },
+        {
+          "period": "Jul 2020 - Jun 2021",
+          "price": "$750 per week\n\nMedian rental price based on 21 leased"
+        },
+        {
+          "period": "Aug 2020 - Jul 2021",
+          "price": "$745 per week\n\nMedian rental price based on 20 leased"
+        },
+        {
+          "period": "Sep 2020 - Aug 2021",
+          "price": "$750 per week\n\nMedian rental price based on 21 leased"
+        },
+        {
+          "period": "Oct 2020 - Sep 2021",
+          "price": "$745 per week\n\nMedian rental price based on 22 leased"
+        },
+        {
+          "period": "Nov 2020 - Oct 2021",
+          "price": "$750 per week\n\nMedian rental price based on 24 leased"
+        },
+        {
+          "period": "Dec 2020 - Nov 2021",
+          "price": "$750 per week\n\nMedian rental price based on 20 leased"
+        },
+        {
+          "period": "Jan 2021 - Dec 2021",
+          "price": "$750 per week\n\nMedian rental price based on 21 leased"
+        },
+        {
+          "period": "Feb 2021 - Jan 2022",
+          "price": "$750 per week\n\nMedian rental price based on 23 leased"
+        },
+        {
+          "period": "Mar 2021 - Feb 2022",
+          "price": "$750 per week\n\nMedian rental price based on 23 leased"
+        },
+        {
+          "period": "Apr 2021 - Mar 2022",
+          "price": "$750 per week\n\nMedian rental price based on 24 leased"
+        },
+        {
+          "period": "May 2021 - Apr 2022",
+          "price": "$775 per week\n\nMedian rental price based on 23 leased"
+        },
+        {
+          "period": "Jun 2021 - May 2022",
+          "price": "$812 per week\n\nMedian rental price based on 24 leased"
+        },
+        {
+          "period": "Jul 2021 - Jun 2022",
+          "price": "$812 per week\n\nMedian rental price based on 24 leased"
+        },
+        {
+          "period": "Aug 2021 - Jul 2022",
+          "price": "$850 per week\n\nMedian rental price based on 34 leased"
+        },
+        {
+          "period": "Sep 2021 - Aug 2022",
+          "price": "$850 per week\n\nMedian rental price based on 31 leased"
+        },
+        {
+          "period": "Oct 2021 - Sep 2022",
+          "price": "$850 per week\n\nMedian rental price based on 32 leased"
+        },
+        {
+          "period": "Nov 2021 - Oct 2022",
+          "price": "$845 per week\n\nMedian rental price based on 32 leased"
+        },
+        {
+          "period": "Dec 2021 - Nov 2022",
+          "price": "$850 per week\n\nMedian rental price based on 38 leased"
+        },
+        {
+          "period": "Jan 2022 - Dec 2022",
+          "price": "$850 per week\n\nMedian rental price based on 36 leased"
+        },
+        {
+          "period": "Feb 2022 - Jan 2023",
+          "price": "$850 per week\n\nMedian rental price based on 38 leased"
+        },
+        {
+          "period": "Mar 2022 - Feb 2023",
+          "price": "$850 per week\n\nMedian rental price based on 37 leased"
+        },
+        {
+          "period": "Apr 2022 - Mar 2023",
+          "price": "$850 per week\n\nMedian rental price based on 43 leased"
+        },
+        {
+          "period": "May 2022 - Apr 2023",
+          "price": "$850 per week\n\nMedian rental price based on 45 leased"
+        },
+        {
+          "period": "Jun 2022 - May 2023",
+          "price": "$850 per week\n\nMedian rental price based on 47 leased"
+        },
+        {
+          "period": "Jul 2022 - Jun 2023",
+          "price": "$850 per week\n\nMedian rental price based on 47 leased"
+        },
+        {
+          "period": "Aug 2022 - Jul 2023",
+          "price": "$850 per week\n\nMedian rental price based on 37 leased"
+        },
+        {
+          "period": "Sep 2022 - Aug 2023",
+          "price": "$850 per week\n\nMedian rental price based on 41 leased"
+        },
+        {
+          "period": "Oct 2022 - Sep 2023",
+          "price": "$850 per week\n\nMedian rental price based on 40 leased"
+        },
+        {
+          "period": "Nov 2022 - Oct 2023",
+          "price": "$850 per week\n\nMedian rental price based on 43 leased"
+        },
+        {
+          "period": "Dec 2022 - Nov 2023",
+          "price": "$850 per week\n\nMedian rental price based on 40 leased"
+        },
+        {
+          "period": "Jan 2023 - Dec 2023",
+          "price": "$850 per week\n\nMedian rental price based on 45 leased"
+        },
+        {
+          "period": "Feb 2023 - Jan 2024",
+          "price": "$850 per week\n\nMedian rental price based on 42 leased"
+        },
+        {
+          "period": "Mar 2023 - Feb 2024",
+          "price": "$850 per week\n\nMedian rental price based on 42 leased"
+        },
+        {
+          "period": "Apr 2023 - Mar 2024",
+          "price": "$850 per week\n\nMedian rental price based on 36 leased"
+        },
+        {
+          "period": "May 2023 - Apr 2024",
+          "price": "$850 per week\n\nMedian rental price based on 38 leased"
+        },
+        {
+          "period": "Jun 2023 - May 2024",
+          "price": "$845 per week\n\nMedian rental price based on 38 leased"
+        },
+        {
+          "period": "Jul 2023 - Jun 2024",
+          "price": "$840 per week\n\nMedian rental price based on 37 leased"
+        },
+        {
+          "period": "Aug 2023 - Jul 2024",
+          "price": "$850 per week\n\nMedian rental price based on 40 leased"
+        },
+        {
+          "period": "Sep 2023 - Aug 2024",
+          "price": "$850 per week\n\nMedian rental price based on 38 leased"
+        },
+        {
+          "period": "Oct 2023 - Sep 2024",
+          "price": "$850 per week\n\nMedian rental price based on 38 leased"
+        },
+        {
+          "period": "Nov 2023 - Oct 2024",
+          "price": "$850 per week\n\nMedian rental price based on 33 leased"
+        },
+        {
+          "period": "Dec 2023 - Nov 2024",
+          "price": "$870 per week\n\nMedian rental price based on 34 leased"
+        },
+        {
+          "period": "Jan 2024 - Dec 2024",
+          "price": "$850 per week\n\nMedian rental price based on 32 leased"
+        },
+        {
+          "period": "Feb 2024 - Jan 2025",
+          "price": "$850 per week\n\nMedian rental price based on 33 leased"
+        },
+        {
+          "period": "Mar 2024 - Feb 2025",
+          "price": "$850 per week\n\nMedian rental price based on 32 leased"
+        },
+        {
+          "period": "Apr 2024 - Mar 2025",
+          "price": "$850 per week\n\nMedian rental price based on 33 leased"
+        },
+        {
+          "period": "May 2024 - Apr 2025",
+          "price": "$850 per week\n\nMedian rental price based on 30 leased"
+        },
+        {
+          "period": "Jun 2024 - May 2025",
+          "price": "$850 per week\n\nMedian rental price based on 28 leased"
+        },
+        {
+          "period": "Jul 2024 - Jun 2025",
+          "price": "$857 per week\n\nMedian rental price based on 28 leased"
+        },
+        {
+          "period": "Aug 2024 - Jul 2025",
+          "price": "$857 per week\n\nMedian rental price based on 28 leased"
+        },
+        {
+          "period": "Sep 2024 - Aug 2025",
+          "price": "$865 per week\n\nMedian rental price based on 29 leased"
+        },
+        {
+          "period": "Oct 2024 - Sep 2025",
+          "price": "$865 per week\n\nMedian rental price based on 29 leased"
+        },
+        {
+          "period": "Nov 2024 - Oct 2025",
+          "price": "$882 per week\n\nMedian rental price based on 32 leased"
+        }
+      ]
+    }
+  }
+}
